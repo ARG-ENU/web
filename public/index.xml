@@ -2,14 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ARG@ENU</title>
-    <link>http://arg.napier.ac.uk/index.xml</link>
+    <link>http://arg.napier.ac.uk/</link>
     <description>Recent content on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>s.wells@napier.ac.uk</managingEditor>
     <webMaster>s.wells@napier.ac.uk</webMaster>
     <lastBuildDate>Fri, 23 Jun 2017 14:58:11 +0100</lastBuildDate>
-    <atom:link href="http://arg.napier.ac.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://arg.napier.ac.uk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Poster Presentation on Argument Visualisation at Scale</title>
@@ -17,18 +19,8 @@
       <pubDate>Fri, 23 Jun 2017 14:58:11 +0100</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/post/2017.06.23_eca_dana/</guid>
-      <description>&lt;p&gt;Dana Khartabil presented a poster at the Second European Conference on Argumentation based upon her Ph.D research. Briefly, we are interested in the tools that are needed to usefully explore increasingly larger datasets of analysed argumentation, whether this comes from hand-analysed datasets like the &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/datasets/#stcd&#34;&gt;STCD&lt;/a&gt;. This poster forms parrt of the wider &lt;a href=&#34;http://arg.napier.ac.uk/page/project/argument-cartography/&#34;&gt;Argument Cartography&lt;/a&gt; theme.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://arg.napier.ac.uk/img/dana_2017_eca.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SHORT ABSTRACT:&lt;/strong&gt; Argument diagramming has become a standard tool for visualising and exploring the structure of arguments and aiding in their analysis. The advent of digital technologies has lead to increasingly large datasets of analysed argument which can stretch the capabilities of traditional argument diagramming techniques and tools. We report on work to develop new argument visualisation techniques, computational implementations, that aim to support visualisation of arguments at scale, with ad hoc display and filtering of meta-data.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#khartabil_2017_eca&#34;&gt;Bibliographic Information&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/assets/abstracts/khartabil_2017_eca.pdf&#34;&gt;Abstract (PDF)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.5146150.v1&#34;&gt;Poster (Figshare)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Dana Khartabil presented a poster at the Second European Conference on Argumentation based upon her Ph.D research. Briefly, we are interested in the tools that are needed to usefully explore increasingly larger datasets of analysed argumentation, whether this comes from hand-analysed datasets like the STCD. This poster forms parrt of the wider Argument Cartography theme.
+SHORT ABSTRACT: Argument diagramming has become a standard tool for visualising and exploring the structure of arguments and aiding in their analysis.</description>
     </item>
     
     <item>
@@ -37,18 +29,8 @@
       <pubDate>Fri, 23 Jun 2017 14:58:11 +0100</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/post/2017.06.23_eca_kate/</guid>
-      <description>&lt;p&gt;Kate Pangbourne presented a poster at the Second European Conference on Argumentation based upon our joint research into behaviour change campaigns and its associated argumentative practises. Briefly, we are interested in the kinds of arguments that are used in behaviour change campaigns from the Sustainable Transport Domain. This builds on work in to the Sustainable Transport Communication Dataset (&lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/datasets/#stcd&#34;&gt;STCD&lt;/a&gt;) theme.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://arg.napier.ac.uk/img/kate_2017_eca.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SHORT ABSTRACT:&lt;/strong&gt; Poor communication can undermine the preparatory work, conducted over long periods,  to construct favourable conditions for a major societal shift in behaviour. We examine the inferences that the designers of behaviour change interventions aim to produce in their target audience and the mismatch that can occur when interventions are deployed. Additionally we explore the related role and complicating factors that social media and digital technologies bring which can cause persuasive public communication to misfire.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#pangbourne_2017_eca&#34;&gt;Bibliographic Information&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/assets/abstracts/pangbourne_2017_eca.pdf&#34;&gt;Abstract (PDF)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.5146153.v1&#34;&gt;Poster (Figshare)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Kate Pangbourne presented a poster at the Second European Conference on Argumentation based upon our joint research into behaviour change campaigns and its associated argumentative practises. Briefly, we are interested in the kinds of arguments that are used in behaviour change campaigns from the Sustainable Transport Domain. This builds on work in to the Sustainable Transport Communication Dataset (STCD) theme.
+SHORT ABSTRACT: Poor communication can undermine the preparatory work, conducted over long periods, to construct favourable conditions for a major societal shift in behaviour.</description>
     </item>
     
     <item>
@@ -57,12 +39,8 @@
       <pubDate>Tue, 11 Apr 2017 14:58:11 +0100</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/post/2017.04.11_lovelace/</guid>
-      <description>&lt;p&gt;With Argument Card Debate (&lt;a href=&#34;http://arg.napier.ac.uk/page/project/arcade&#34;&gt;Ar:Ca:De&lt;/a&gt;) games we are building online and offline debate games that use &amp;lsquo;Argument Cards&amp;rsquo;, representations of arguments depicted using playing cards. The aim is to support people in engaging with both their own and other people&amp;rsquo;s arguments.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://arg.napier.ac.uk/img/ama.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Amantle Craviolatti recently attended the 2017 BCSWomen Lovelace Colloquium to present a poster and talk about her project with other Women in Computing. The poster can be &lt;a href=&#34;page/outputs/publications&#34;&gt;downloaded&lt;/a&gt; from our publications page&lt;/p&gt;
-</description>
+      <description>With Argument Card Debate (Ar:Ca:De) games we are building online and offline debate games that use &amp;lsquo;Argument Cards&amp;rsquo;, representations of arguments depicted using playing cards. The aim is to support people in engaging with both their own and other people&amp;rsquo;s arguments.
+Amantle Craviolatti recently attended the 2017 BCSWomen Lovelace Colloquium to present a poster and talk about her project with other Women in Computing. The poster can be downloaded from our publications page</description>
     </item>
     
     <item>
@@ -71,8 +49,7 @@
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/post/2017.04.01_argumentation/</guid>
-      <description>&lt;p&gt;Research into argumentation has become an increasingly hot research topic in AI in recent years. Argumentation Research at Edinburgh Napier University focusses on dialogue and strategy with forays into visualisation, tooling, datasets, and mining.&lt;/p&gt;
-</description>
+      <description>Research into argumentation has become an increasingly hot research topic in AI in recent years. Argumentation Research at Edinburgh Napier University focusses on dialogue and strategy with forays into visualisation, tooling, datasets, and mining.</description>
     </item>
     
     <item>
@@ -81,20 +58,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/adamant/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;p&gt;adamant |ˈadəm(ə)nt|&lt;/p&gt;
-
-&lt;p&gt;adjective&lt;/p&gt;
-
-&lt;p&gt;refusing to be persuaded or to change one&amp;rsquo;s mind: he is adamant that he is not going to resign.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
-
-&lt;p&gt;Adamant is a DGDL runtime implementation for playing and managing dialogue games.&lt;/p&gt;
-</description>
+      <description>adamant |ˈadəm(ə)nt|
+adjective
+refusing to be persuaded or to change one&amp;rsquo;s mind: he is adamant that he is not going to resign.
+ About Adamant is a DGDL runtime implementation for playing and managing dialogue games.</description>
     </item>
     
     <item>
@@ -103,7 +70,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/alias/</guid>
-      <description></description>
+      <description>ALIAS is a pure Python library for working with abstract argumentation systems and includes tools for creating and manipulating frameworks as well as analysing them. ALIAS currently supports the following extensions:
+ complete, preferred, stable  and the following labellings:
+ complete, grounded, preferred, stable, semi-stable  Getting ALIAS The complete sourcecode for ALIAS is available from the project&amp;rsquo;s Git repository:
+ ALIAS  Feel free to clone or fork the project.</description>
     </item>
     
     <item>
@@ -112,13 +82,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/people/affiliates/</guid>
-      <description>&lt;p&gt;We like to work with various folk and are actively working with&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.its.leeds.ac.uk/people/k.pangbourne&#34;&gt;Dr Kate Pangbourne&lt;/a&gt; (EPSRC Living with Environmental Change Fellow @ the University of Leeds)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www-users.cs.york.ac.uk/~tommy/&#34;&gt;Dr Tangming &amp;ldquo;Tommy&amp;rdquo; Yuan&lt;/a&gt; (University of York)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>We like to work with various folk and are actively working with
+ Dr Kate Pangbourne (EPSRC Living with Environmental Change Fellow @ the University of Leeds) Dr Tangming &amp;ldquo;Tommy&amp;rdquo; Yuan (University of York)  </description>
     </item>
     
     <item>
@@ -145,8 +110,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/argument-cartography/</guid>
-      <description>&lt;p&gt;People have long visualised argument structure in order to better understand and analyse arguments. Initially this activity was paper based and lead to a variety of diagram styles, for example, Wigmore produced a large and complex visual language to describe legal argument whilst Toulmin produced a compact and popular style for describing individual arguments. Machine were used to support argument analysis and visualisation, leading to software such as Araucaria and Rationale, which define their own versions of the standard argument diagram familiar from basic logic. As the computational argument research community developed, the Argument Interchange Format (AIF) was developed to support the exchange of structured argument data between disparate tools. In parallel, a recent topic in argumentation that has been the subject of intense scrutiny is Argumentation Mining, the automatic recognition, extraction, and reconstruction of arguments from natural language resources. The ultimate goal promise of effective argumentation mining is for all arguments to be mined from all texts that contain them. This promises truly large datasets of arguments. Datasets at a scale which outrank all current visualisation efforts. The goal of argument cartography is to track the development of increasingly large-scale argument datasets and to develop suitable techniques for argument visualisation and exploration.&lt;/p&gt;
-</description>
+      <description>People have long visualised argument structure in order to better understand and analyse arguments. Initially this activity was paper based and lead to a variety of diagram styles, for example, Wigmore produced a large and complex visual language to describe legal argument whilst Toulmin produced a compact and popular style for describing individual arguments. Machine were used to support argument analysis and visualisation, leading to software such as Araucaria and Rationale, which define their own versions of the standard argument diagram familiar from basic logic.</description>
     </item>
     
     <item>
@@ -164,8 +128,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/people/dana-khartabil/</guid>
-      <description>&lt;p&gt;Dana is a Ph.D student funded under the fifty years of Edinburgh Napier scholarship scheme. Her research focusses on how to usefully visualise and consequently work with increasingly large argumentation datasets. Her research contributes to the &lt;a href=&#34;http://arg.napier.ac.uk/page/project/argument-cartography/&#34;&gt;Argument Cartography&lt;/a&gt; project.&lt;/p&gt;
-</description>
+      <description>Dana is a Ph.D student funded under the fifty years of Edinburgh Napier scholarship scheme. Her research focusses on how to usefully visualise and consequently work with increasingly large argumentation datasets. Her research contributes to the Argument Cartography project.</description>
     </item>
     
     <item>
@@ -174,28 +137,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/outputs/datasets/</guid>
-      <description>
-
-&lt;h4 id=&#34;sustainable-transport-communications-dataset-stcd&#34;&gt;Sustainable Transport Communications Dataset (STCD)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a id=&#34;stcd&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This dataset is under continuous development to support research in behaviour change for sustainable transport and to provide an exemplar of practise in developing datasets to underpin reproducible &amp;amp; replicable Computer Science research. It has been reported upon in the following publications:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;(2017) &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#pangbourne_2017_eca&#34;&gt;Abstract presented at the 2nd European Conference on Argumentaion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2016) &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#wells_2016_sustainable&#34;&gt;Studies in Logic and Argumentation 62, Chapter 34&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2015) &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#wells_2015_sustainable&#34;&gt;Abstract presented at the 1st European Conference on Argumentation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The dataset itself is stored in a Git repository and is available via the &lt;a href=&#34;https://github.com/ARG-ENU/STCD&#34;&gt;STCD website&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;climate-change-argument-dataset-ccad&#34;&gt;Climate Change Argument Dataset (CCAD)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a id=&#34;ccad&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This dataset has been developed to support research into visualisation of large-scale argument datasets. A goal in assembling this dataset was to develop a single, cohesive, large-scale dataset for a specific contentious real-world domain. The dataset is used in the &lt;a href=&#34;http://arg.napier.ac.uk/page/project/argument-cartography/&#34;&gt;Argument Cartography&lt;/a&gt; project.&lt;/p&gt;
-</description>
+      <description>Sustainable Transport Communications Dataset (STCD) 
+This dataset is under continuous development to support research in behaviour change for sustainable transport and to provide an exemplar of practise in developing datasets to underpin reproducible &amp;amp; replicable Computer Science research. It has been reported upon in the following publications:
+ (2017) Abstract presented at the 2nd European Conference on Argumentaion (2016) Studies in Logic and Argumentation 62, Chapter 34 (2015) Abstract presented at the 1st European Conference on Argumentation  The dataset itself is stored in a Git repository and is available via the STCD website</description>
     </item>
     
     <item>
@@ -204,28 +148,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/monkeypuzzle/</guid>
-      <description>
-
-&lt;p&gt;There are two Monkeypuzzle tools; a rebranded version of Araucaria &amp;amp; a novel web interface. The aim is to provide argument analysis tools that are not dependent upon the cloud or other people&amp;rsquo;s computers so that, if you are a researcher or argument analyst you do not have to risk your workflow to the goodwill or longevity of third-party research organisations or commerical companies.&lt;/p&gt;
-
-&lt;h2 id=&#34;monkeypuzzle-web&#34;&gt;Monkeypuzzle (Web)&lt;/h2&gt;
-
-&lt;p&gt;A free (GPL), open-source, web-based (HTML5, CSS, Javascript) argument analysis tool. This is available to use in three modes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;As a hosted web-service&lt;/li&gt;
-&lt;li&gt;As a local, non-server based single-apge web-app&lt;/li&gt;
-&lt;li&gt;As a browser-hosted, offline app&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The source code for MonkeyPuzzle (web) is available from the project repository which also hosts the issue-tracker to support ongoing developement. There is also a live, hosted version.&lt;/p&gt;
-
-&lt;h2 id=&#34;monkeypuzzle-desktop&#34;&gt;Monkeypuzzle (Desktop)&lt;/h2&gt;
-
-&lt;p&gt;Araucaria was one of the first argument analysis tools, developed in 2001 at the University of Dundee. Unfortunately Arauacaria was not updated for many years, partly due to researchers moving to newer tools. However, Araucaria was the only GPL-licensed, pure argument analysis toolwhich meant that as other tools became &amp;ldquo;online only&amp;rdquo; or subscription based, Araucaria remained the only free, source-inclusive, argument analysis tool that analysts could run privately on their own machine. For many users, being able to perform private analyses of argumentation resources, for example, within research or legal argumentation, is critical, and externally hosted web-services are not an acceptable substitute.&lt;/p&gt;
-
-&lt;p&gt;As a result, Araucaria was adopted under it&amp;rsquo;s GPL license, the code was added to a modern source-control repository, and regular builds were created to ensure that the tool will run under modern Java virtual machines. To celebrate this new lease of life, Araucaria was rebranded to Monkeypuzzle.&lt;/p&gt;
-</description>
+      <description>There are two Monkeypuzzle tools; a rebranded version of Araucaria &amp;amp; a novel web interface. The aim is to provide argument analysis tools that are not dependent upon the cloud or other people&amp;rsquo;s computers so that, if you are a researcher or argument analyst you do not have to risk your workflow to the goodwill or longevity of third-party research organisations or commerical companies.
+Monkeypuzzle (Web) A free (GPL), open-source, web-based (HTML5, CSS, Javascript) argument analysis tool.</description>
     </item>
     
     <item>
@@ -234,16 +158,69 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/people/past/</guid>
-      <description>&lt;p&gt;Sometimes folk stay for a little while then move on to better things.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Adam Kisala&lt;/li&gt;
-&lt;li&gt;Amantle Craviolatti&lt;/li&gt;
-&lt;li&gt;John Douglas&lt;/li&gt;
-&lt;li&gt;Roberto Franesco La Greca&lt;/li&gt;
-&lt;li&gt;Hristo Meshinski&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Sometimes folk stay for a little while then move on to better things.
+ Adam Kisala Amantle Craviolatti John Douglas Roberto Franesco La Greca Hristo Meshinski  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://arg.napier.ac.uk/page/outputs/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/page/outputs/publications/</guid>
+      <description>S. Wells (2017) &#34;The role of faulty inferences in interrogation dialogues&#34;
+Abstract for poster presented at the 2nd European Conference on Argumentation: Argumentation and Inference (ECA17), Fribourg, Switzerland.
+[ pdf ]   K. Pangbourne, A. Baker-Graham, &amp; S. Wells (2017) &#34;The Role of Inference in Constructing, Communicating and Sustaining Behaviour Change Arguments&#34;
+Abstract for poster presented at the 2nd European Conference on Argumentation: Argumentation and Inference (ECA17), Fribourg, Switzerland.</description>
+    </item>
+    
+    <item>
+      <title>SADFace</title>
+      <link>http://arg.napier.ac.uk/page/project/sadface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/page/project/sadface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Wells</title>
+      <link>http://arg.napier.ac.uk/page/people/simon-wells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/page/people/simon-wells/</guid>
+      <description>You can find more information at Simon&amp;rsquo;s personal academic website.
+Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University. His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques. Generally, he is interested in how argumentation can be used to understand the world, resolve conflicts, and influence others. He maintains ARG@ENU and does Argumentation Research to develops argument-mining, dialogue management, and behaviour change tools.</description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://arg.napier.ac.uk/page/admin/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/page/admin/travel/</guid>
+      <description> Getting To Us We are based on the Merchiston campus of Edinburgh Napier University in Scotlands capital city of Edinburgh. Getting to us is easy:
+By Road By Rail By Air </description>
+    </item>
+    
+    <item>
+      <title>Vacancies</title>
+      <link>http://arg.napier.ac.uk/page/admin/vacancies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/page/admin/vacancies/</guid>
+      <description>There are currently no vacancies for funded positions. When there are jobs we&amp;rsquo;ll advertise them here, on jobs.ac.uk, on the ARGTHRY list, and in other places as appropriate.</description>
+    </item>
+    
+    <item>
+      <title>Working With Us</title>
+      <link>http://arg.napier.ac.uk/page/admin/collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/page/admin/collaboration/</guid>
+      <description>Vacancies There are occasionally vacancies for permanent and fixed-term positions in the group which will be linked to from here.
+Research Visitors We aim to support the exchange of ideas with researchers both in Argumentation and related fields so we welcome visiting scholars.
+If you are interested in a research visit to ARG@ENU you should email a CV and covering letter describing your proposed research to Dr. Simon Wells.</description>
     </item>
     
   </channel>

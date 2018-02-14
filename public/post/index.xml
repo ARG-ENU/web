@@ -2,14 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ARG@ENU</title>
-    <link>http://arg.napier.ac.uk/post/index.xml</link>
+    <link>http://arg.napier.ac.uk/post/</link>
     <description>Recent content in Posts on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>s.wells@napier.ac.uk</managingEditor>
     <webMaster>s.wells@napier.ac.uk</webMaster>
     <lastBuildDate>Fri, 23 Jun 2017 14:58:11 +0100</lastBuildDate>
-    <atom:link href="http://arg.napier.ac.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://arg.napier.ac.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Poster Presentation on Argument Visualisation at Scale</title>
@@ -17,18 +19,8 @@
       <pubDate>Fri, 23 Jun 2017 14:58:11 +0100</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/post/2017.06.23_eca_dana/</guid>
-      <description>&lt;p&gt;Dana Khartabil presented a poster at the Second European Conference on Argumentation based upon her Ph.D research. Briefly, we are interested in the tools that are needed to usefully explore increasingly larger datasets of analysed argumentation, whether this comes from hand-analysed datasets like the &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/datasets/#stcd&#34;&gt;STCD&lt;/a&gt;. This poster forms parrt of the wider &lt;a href=&#34;http://arg.napier.ac.uk/page/project/argument-cartography/&#34;&gt;Argument Cartography&lt;/a&gt; theme.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://arg.napier.ac.uk/img/dana_2017_eca.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SHORT ABSTRACT:&lt;/strong&gt; Argument diagramming has become a standard tool for visualising and exploring the structure of arguments and aiding in their analysis. The advent of digital technologies has lead to increasingly large datasets of analysed argument which can stretch the capabilities of traditional argument diagramming techniques and tools. We report on work to develop new argument visualisation techniques, computational implementations, that aim to support visualisation of arguments at scale, with ad hoc display and filtering of meta-data.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#khartabil_2017_eca&#34;&gt;Bibliographic Information&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/assets/abstracts/khartabil_2017_eca.pdf&#34;&gt;Abstract (PDF)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.5146150.v1&#34;&gt;Poster (Figshare)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Dana Khartabil presented a poster at the Second European Conference on Argumentation based upon her Ph.D research. Briefly, we are interested in the tools that are needed to usefully explore increasingly larger datasets of analysed argumentation, whether this comes from hand-analysed datasets like the STCD. This poster forms parrt of the wider Argument Cartography theme.
+SHORT ABSTRACT: Argument diagramming has become a standard tool for visualising and exploring the structure of arguments and aiding in their analysis.</description>
     </item>
     
     <item>
@@ -37,18 +29,8 @@
       <pubDate>Fri, 23 Jun 2017 14:58:11 +0100</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/post/2017.06.23_eca_kate/</guid>
-      <description>&lt;p&gt;Kate Pangbourne presented a poster at the Second European Conference on Argumentation based upon our joint research into behaviour change campaigns and its associated argumentative practises. Briefly, we are interested in the kinds of arguments that are used in behaviour change campaigns from the Sustainable Transport Domain. This builds on work in to the Sustainable Transport Communication Dataset (&lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/datasets/#stcd&#34;&gt;STCD&lt;/a&gt;) theme.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://arg.napier.ac.uk/img/kate_2017_eca.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SHORT ABSTRACT:&lt;/strong&gt; Poor communication can undermine the preparatory work, conducted over long periods,  to construct favourable conditions for a major societal shift in behaviour. We examine the inferences that the designers of behaviour change interventions aim to produce in their target audience and the mismatch that can occur when interventions are deployed. Additionally we explore the related role and complicating factors that social media and digital technologies bring which can cause persuasive public communication to misfire.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#pangbourne_2017_eca&#34;&gt;Bibliographic Information&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/assets/abstracts/pangbourne_2017_eca.pdf&#34;&gt;Abstract (PDF)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.5146153.v1&#34;&gt;Poster (Figshare)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Kate Pangbourne presented a poster at the Second European Conference on Argumentation based upon our joint research into behaviour change campaigns and its associated argumentative practises. Briefly, we are interested in the kinds of arguments that are used in behaviour change campaigns from the Sustainable Transport Domain. This builds on work in to the Sustainable Transport Communication Dataset (STCD) theme.
+SHORT ABSTRACT: Poor communication can undermine the preparatory work, conducted over long periods, to construct favourable conditions for a major societal shift in behaviour.</description>
     </item>
     
     <item>
@@ -57,12 +39,8 @@
       <pubDate>Tue, 11 Apr 2017 14:58:11 +0100</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/post/2017.04.11_lovelace/</guid>
-      <description>&lt;p&gt;With Argument Card Debate (&lt;a href=&#34;http://arg.napier.ac.uk/page/project/arcade&#34;&gt;Ar:Ca:De&lt;/a&gt;) games we are building online and offline debate games that use &amp;lsquo;Argument Cards&amp;rsquo;, representations of arguments depicted using playing cards. The aim is to support people in engaging with both their own and other people&amp;rsquo;s arguments.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://arg.napier.ac.uk/img/ama.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Amantle Craviolatti recently attended the 2017 BCSWomen Lovelace Colloquium to present a poster and talk about her project with other Women in Computing. The poster can be &lt;a href=&#34;page/outputs/publications&#34;&gt;downloaded&lt;/a&gt; from our publications page&lt;/p&gt;
-</description>
+      <description>With Argument Card Debate (Ar:Ca:De) games we are building online and offline debate games that use &amp;lsquo;Argument Cards&amp;rsquo;, representations of arguments depicted using playing cards. The aim is to support people in engaging with both their own and other people&amp;rsquo;s arguments.
+Amantle Craviolatti recently attended the 2017 BCSWomen Lovelace Colloquium to present a poster and talk about her project with other Women in Computing. The poster can be downloaded from our publications page</description>
     </item>
     
     <item>
@@ -71,8 +49,7 @@
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/post/2017.04.01_argumentation/</guid>
-      <description>&lt;p&gt;Research into argumentation has become an increasingly hot research topic in AI in recent years. Argumentation Research at Edinburgh Napier University focusses on dialogue and strategy with forays into visualisation, tooling, datasets, and mining.&lt;/p&gt;
-</description>
+      <description>Research into argumentation has become an increasingly hot research topic in AI in recent years. Argumentation Research at Edinburgh Napier University focusses on dialogue and strategy with forays into visualisation, tooling, datasets, and mining.</description>
     </item>
     
   </channel>

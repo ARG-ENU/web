@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ARG@ENU</title>
+    <link>http://arg.napier.ac.uk/tags/</link>
+    <description>Recent content in Tags on ARG@ENU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>s.wells@napier.ac.uk</managingEditor>
+    <webMaster>s.wells@napier.ac.uk</webMaster>
+    
+	<atom:link href="http://arg.napier.ac.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

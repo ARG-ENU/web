@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on ARG@ENU</title>
-    <link>http://arg.napier.ac.uk/page/index.xml</link>
+    <link>http://arg.napier.ac.uk/page/</link>
     <description>Recent content in Pages on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>s.wells@napier.ac.uk</managingEditor>
     <webMaster>s.wells@napier.ac.uk</webMaster>
-    <atom:link href="http://arg.napier.ac.uk/page/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://arg.napier.ac.uk/page/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>ADAMANT</title>
@@ -16,20 +18,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/adamant/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;p&gt;adamant |ˈadəm(ə)nt|&lt;/p&gt;
-
-&lt;p&gt;adjective&lt;/p&gt;
-
-&lt;p&gt;refusing to be persuaded or to change one&amp;rsquo;s mind: he is adamant that he is not going to resign.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
-
-&lt;p&gt;Adamant is a DGDL runtime implementation for playing and managing dialogue games.&lt;/p&gt;
-</description>
+      <description>adamant |ˈadəm(ə)nt|
+adjective
+refusing to be persuaded or to change one&amp;rsquo;s mind: he is adamant that he is not going to resign.
+ About Adamant is a DGDL runtime implementation for playing and managing dialogue games.</description>
     </item>
     
     <item>
@@ -38,7 +30,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/alias/</guid>
-      <description></description>
+      <description>ALIAS is a pure Python library for working with abstract argumentation systems and includes tools for creating and manipulating frameworks as well as analysing them. ALIAS currently supports the following extensions:
+ complete, preferred, stable  and the following labellings:
+ complete, grounded, preferred, stable, semi-stable  Getting ALIAS The complete sourcecode for ALIAS is available from the project&amp;rsquo;s Git repository:
+ ALIAS  Feel free to clone or fork the project.</description>
     </item>
     
     <item>
@@ -47,13 +42,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/people/affiliates/</guid>
-      <description>&lt;p&gt;We like to work with various folk and are actively working with&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.its.leeds.ac.uk/people/k.pangbourne&#34;&gt;Dr Kate Pangbourne&lt;/a&gt; (EPSRC Living with Environmental Change Fellow @ the University of Leeds)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www-users.cs.york.ac.uk/~tommy/&#34;&gt;Dr Tangming &amp;ldquo;Tommy&amp;rdquo; Yuan&lt;/a&gt; (University of York)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>We like to work with various folk and are actively working with
+ Dr Kate Pangbourne (EPSRC Living with Environmental Change Fellow @ the University of Leeds) Dr Tangming &amp;ldquo;Tommy&amp;rdquo; Yuan (University of York)  </description>
     </item>
     
     <item>
@@ -80,8 +70,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/argument-cartography/</guid>
-      <description>&lt;p&gt;People have long visualised argument structure in order to better understand and analyse arguments. Initially this activity was paper based and lead to a variety of diagram styles, for example, Wigmore produced a large and complex visual language to describe legal argument whilst Toulmin produced a compact and popular style for describing individual arguments. Machine were used to support argument analysis and visualisation, leading to software such as Araucaria and Rationale, which define their own versions of the standard argument diagram familiar from basic logic. As the computational argument research community developed, the Argument Interchange Format (AIF) was developed to support the exchange of structured argument data between disparate tools. In parallel, a recent topic in argumentation that has been the subject of intense scrutiny is Argumentation Mining, the automatic recognition, extraction, and reconstruction of arguments from natural language resources. The ultimate goal promise of effective argumentation mining is for all arguments to be mined from all texts that contain them. This promises truly large datasets of arguments. Datasets at a scale which outrank all current visualisation efforts. The goal of argument cartography is to track the development of increasingly large-scale argument datasets and to develop suitable techniques for argument visualisation and exploration.&lt;/p&gt;
-</description>
+      <description>People have long visualised argument structure in order to better understand and analyse arguments. Initially this activity was paper based and lead to a variety of diagram styles, for example, Wigmore produced a large and complex visual language to describe legal argument whilst Toulmin produced a compact and popular style for describing individual arguments. Machine were used to support argument analysis and visualisation, leading to software such as Araucaria and Rationale, which define their own versions of the standard argument diagram familiar from basic logic.</description>
     </item>
     
     <item>
@@ -99,8 +88,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/people/dana-khartabil/</guid>
-      <description>&lt;p&gt;Dana is a Ph.D student funded under the fifty years of Edinburgh Napier scholarship scheme. Her research focusses on how to usefully visualise and consequently work with increasingly large argumentation datasets. Her research contributes to the &lt;a href=&#34;http://arg.napier.ac.uk/page/project/argument-cartography/&#34;&gt;Argument Cartography&lt;/a&gt; project.&lt;/p&gt;
-</description>
+      <description>Dana is a Ph.D student funded under the fifty years of Edinburgh Napier scholarship scheme. Her research focusses on how to usefully visualise and consequently work with increasingly large argumentation datasets. Her research contributes to the Argument Cartography project.</description>
     </item>
     
     <item>
@@ -109,28 +97,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/outputs/datasets/</guid>
-      <description>
-
-&lt;h4 id=&#34;sustainable-transport-communications-dataset-stcd&#34;&gt;Sustainable Transport Communications Dataset (STCD)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a id=&#34;stcd&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This dataset is under continuous development to support research in behaviour change for sustainable transport and to provide an exemplar of practise in developing datasets to underpin reproducible &amp;amp; replicable Computer Science research. It has been reported upon in the following publications:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;(2017) &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#pangbourne_2017_eca&#34;&gt;Abstract presented at the 2nd European Conference on Argumentaion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2016) &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#wells_2016_sustainable&#34;&gt;Studies in Logic and Argumentation 62, Chapter 34&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2015) &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#wells_2015_sustainable&#34;&gt;Abstract presented at the 1st European Conference on Argumentation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The dataset itself is stored in a Git repository and is available via the &lt;a href=&#34;https://github.com/ARG-ENU/STCD&#34;&gt;STCD website&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;climate-change-argument-dataset-ccad&#34;&gt;Climate Change Argument Dataset (CCAD)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a id=&#34;ccad&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This dataset has been developed to support research into visualisation of large-scale argument datasets. A goal in assembling this dataset was to develop a single, cohesive, large-scale dataset for a specific contentious real-world domain. The dataset is used in the &lt;a href=&#34;http://arg.napier.ac.uk/page/project/argument-cartography/&#34;&gt;Argument Cartography&lt;/a&gt; project.&lt;/p&gt;
-</description>
+      <description>Sustainable Transport Communications Dataset (STCD) 
+This dataset is under continuous development to support research in behaviour change for sustainable transport and to provide an exemplar of practise in developing datasets to underpin reproducible &amp;amp; replicable Computer Science research. It has been reported upon in the following publications:
+ (2017) Abstract presented at the 2nd European Conference on Argumentaion (2016) Studies in Logic and Argumentation 62, Chapter 34 (2015) Abstract presented at the 1st European Conference on Argumentation  The dataset itself is stored in a Git repository and is available via the STCD website</description>
     </item>
     
     <item>
@@ -139,28 +108,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/monkeypuzzle/</guid>
-      <description>
-
-&lt;p&gt;There are two Monkeypuzzle tools; a rebranded version of Araucaria &amp;amp; a novel web interface. The aim is to provide argument analysis tools that are not dependent upon the cloud or other people&amp;rsquo;s computers so that, if you are a researcher or argument analyst you do not have to risk your workflow to the goodwill or longevity of third-party research organisations or commerical companies.&lt;/p&gt;
-
-&lt;h2 id=&#34;monkeypuzzle-web&#34;&gt;Monkeypuzzle (Web)&lt;/h2&gt;
-
-&lt;p&gt;A free (GPL), open-source, web-based (HTML5, CSS, Javascript) argument analysis tool. This is available to use in three modes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;As a hosted web-service&lt;/li&gt;
-&lt;li&gt;As a local, non-server based single-apge web-app&lt;/li&gt;
-&lt;li&gt;As a browser-hosted, offline app&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The source code for MonkeyPuzzle (web) is available from the project repository which also hosts the issue-tracker to support ongoing developement. There is also a live, hosted version.&lt;/p&gt;
-
-&lt;h2 id=&#34;monkeypuzzle-desktop&#34;&gt;Monkeypuzzle (Desktop)&lt;/h2&gt;
-
-&lt;p&gt;Araucaria was one of the first argument analysis tools, developed in 2001 at the University of Dundee. Unfortunately Arauacaria was not updated for many years, partly due to researchers moving to newer tools. However, Araucaria was the only GPL-licensed, pure argument analysis toolwhich meant that as other tools became &amp;ldquo;online only&amp;rdquo; or subscription based, Araucaria remained the only free, source-inclusive, argument analysis tool that analysts could run privately on their own machine. For many users, being able to perform private analyses of argumentation resources, for example, within research or legal argumentation, is critical, and externally hosted web-services are not an acceptable substitute.&lt;/p&gt;
-
-&lt;p&gt;As a result, Araucaria was adopted under it&amp;rsquo;s GPL license, the code was added to a modern source-control repository, and regular builds were created to ensure that the tool will run under modern Java virtual machines. To celebrate this new lease of life, Araucaria was rebranded to Monkeypuzzle.&lt;/p&gt;
-</description>
+      <description>There are two Monkeypuzzle tools; a rebranded version of Araucaria &amp;amp; a novel web interface. The aim is to provide argument analysis tools that are not dependent upon the cloud or other people&amp;rsquo;s computers so that, if you are a researcher or argument analyst you do not have to risk your workflow to the goodwill or longevity of third-party research organisations or commerical companies.
+Monkeypuzzle (Web) A free (GPL), open-source, web-based (HTML5, CSS, Javascript) argument analysis tool.</description>
     </item>
     
     <item>
@@ -169,16 +118,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/people/past/</guid>
-      <description>&lt;p&gt;Sometimes folk stay for a little while then move on to better things.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Adam Kisala&lt;/li&gt;
-&lt;li&gt;Amantle Craviolatti&lt;/li&gt;
-&lt;li&gt;John Douglas&lt;/li&gt;
-&lt;li&gt;Roberto Franesco La Greca&lt;/li&gt;
-&lt;li&gt;Hristo Meshinski&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Sometimes folk stay for a little while then move on to better things.
+ Adam Kisala Amantle Craviolatti John Douglas Roberto Franesco La Greca Hristo Meshinski  </description>
     </item>
     
     <item>
@@ -187,284 +128,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/outputs/publications/</guid>
-      <description>&lt;ol reversed&gt;
-
-    &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;wells_2017_eca&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells (2017) &#34;&lt;em&gt;The role of faulty inferences in interrogation dialogues&lt;/em&gt;&#34;&lt;br /&gt;
-                 Abstract for poster presented at the 2nd European Conference on Argumentation: Argumentation and Inference (&lt;a href=&#34;http://ecargument.org/&#34;&gt;ECA17&lt;/a&gt;), Fribourg, Switzerland.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/abstracts/wells_2017_eca.pdf&#34;&gt;pdf&lt;/a&gt; ] &lt;/p&gt;
-    &lt;/li&gt;
-
-
-    &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;pangbourne_2017_eca&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;K. Pangbourne, A. Baker-Graham, &amp; S. Wells (2017) &#34;&lt;em&gt;The Role of Inference in Constructing, Communicating and Sustaining Behaviour Change Arguments&lt;/em&gt;&#34;&lt;br /&gt;
-                 Abstract for poster presented at the 2nd European Conference on Argumentation: Argumentation and Inference (&lt;a href=&#34;http://ecargument.org/&#34;&gt;ECA17&lt;/a&gt;), Fribourg, Switzerland.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;Abstract: [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/abstracts/pangbourne_2017_eca.pdf&#34;&gt;pdf&lt;/a&gt; ] &lt;/p&gt;
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;Poster: [ &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.5146153.v1&#34;&gt;doi:10.6084/m9.figshare.5146153.v1&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/posters/pangbourne_2017_eca.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-
-            &lt;/li&gt;
-
-
-            &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;khartabil_2017_eca&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;D. Khartabil &amp; S. Wells (2017) &#34;&lt;em&gt;Mapping Increasingly Large Networks of Argumentative Inferences&lt;/em&gt;&#34;&lt;br /&gt;
-                 Abstract for poster presented at the 2nd European Conference on Argumentation: Argumentation and Inference (&lt;a href=&#34;http://ecargument.org/&#34;&gt;ECA17&lt;/a&gt;), Fribourg, Switzerland.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;Abstract: [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/abstracts/khartabil_2017_eca.pdf&#34;&gt;pdf&lt;/a&gt; ] &lt;/p&gt;
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;Poster: [ &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.5146150.v1&#34;&gt;doi:10.6084/m9.figshare.5146150.v1&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/posters/khartabil_2017_eca.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/li&gt;
-
-
-    &lt;li&gt;
-        &lt;p&gt;&lt;a id=&#34;douglas_2017_monkeypuzzle&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells &amp; J. Douglas (2017) &#34;&lt;em&gt;Monkeypuzzle: Towards Next Generation, Free &amp; Open-Source, Argument Analysis Tools&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the 17th International Workshop on Computation Models of Natural Argument(&lt;a href=&#34;http://www.cmna.info/CMNA17&#34;&gt;CMNA17&lt;/a&gt;), London, U.K.&lt;br /&gt; 
-        &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/douglas_2017_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-    &lt;/li&gt;
-
-    &lt;li&gt;
-        &lt;p&gt;&lt;a id=&#34;craviolatti_2017_lovelace&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;A. Craviolatti (2017) &#34;&lt;em&gt;Ar:Ca:De - Argument Card Debate Games for Critical Thinking&lt;/em&gt;&#34;&lt;br /&gt;
-        &lt;a href=&#34;https://www.aber.ac.uk/en/cs/engagement/lovelace-colloquium/&#34;&gt;BCSWomen Lovelace Colloquium 2017&lt;/a&gt;, Aberystwith, Wales&lt;br /&gt; 
-        &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;Poster: [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/posters/craviolatti_2017_lovelace.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-    &lt;/li&gt;                
-
-
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;yuan_2016_safety&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T. Yuan, S. Manandhar, T. Kelly, and S. Wells (2016) &#34;&lt;em&gt;Automatically Detecting Fallacies in System Safety Arguments&lt;/em&gt;&#34;&lt;br /&gt;
-                 &lt;a href=&#34;https://link.springer.com/book/10.1007%2F978-3-319-46218-9&#34;&gt;Principles and Practice of Multi-Agent Systems&lt;/a&gt;, pp. 47-59, LNCS 9935, Springer&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;https://dx.doi.org/10.1007/978-3-319-46218-9_4&#34;&gt;doi:10.1007/978-3-319-46218-9_4&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/yuan_2016_cmna+lncs.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/li&gt;
-
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;farrenkopf_2016_jasss&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T. Farrenkopf, M. Guckert, N. Urquhart, &amp; S. Wells (2016) &#34;&lt;em&gt;&lt;a href=&#34;http://jasss.soc.surrey.ac.uk/19/4/14.html&#34;&gt;Ontology Based Business Simulations&lt;/a&gt;&lt;/em&gt;&#34;&lt;br /&gt;
-                &lt;a href=&#34;http://jasss.soc.surrey.ac.uk&#34;&gt;The Journal of Artifical Societies and Social Simulation (JASSS)&lt;/a&gt;, 19(4).&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;https://dx.doi.org/10.18564/jasss.3266&#34;&gt;doi:10.18564/jasss.3266&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/farrenkopf_2016_jasss.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ] &lt;/p&gt;
-                &lt;/li&gt; 
-
-
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;wells_2016_combinatorial&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells (2016) &#34;&lt;em&gt;Combinatorial Dialogue Games in Strategic Argumentation&lt;/em&gt;&#34;&lt;br /&gt;
-                 Argumentation and Reasoned Action, Proceedings of the &lt;a href=&#34;http://ecargument.org/&#34;&gt;1st European Conference on Argumentation&lt;/a&gt;, Lisbon 2015, &lt;a href=&#34;https://www.amazon.co.uk/Argumentation-Reasoned-Action-Dima-Mohammed/dp/1848902123/&#34;&gt;volume 2&lt;/a&gt;, Studies in Logic and Argumentation 63, chapter 67, pp. 1045-1063, College Publications.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2016b_eca.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ] &lt;/p&gt;
-                &lt;/li&gt; 
-
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;wells_2016_sustainable&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells &amp; K. Pangbourne (2016) &#34;&lt;em&gt;Using Argumentation Within Sustainable Transport Communication&lt;/em&gt;&#34;&lt;br /&gt;
-                 Argumentation and Reasoned Action, Proceedings of the &lt;a href=&#34;http://ecargument.org/&#34;&gt;1st European Conference on Argumentation&lt;/a&gt;, Lisbon 2015, &lt;a href=&#34;https://www.amazon.co.uk/Argumentation-Reasoned-Action-Dima-Mohammed/dp/1848902115/&#34;&gt;volume 1&lt;/a&gt;, Studies in Logic and Argumentation 62, chapter 34, pp. 781-801, College Publications.&lt;br /&gt;
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2016a_eca.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ] &lt;/p&gt;
-                &lt;/li&gt;
-                
-                
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;khartabil_2016_euroviz&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;D. Khartabil, S. Wells, &amp; J. Kennedy (2016) &#34;&lt;em&gt;Large-scale Argument Visualization (LSAV)&lt;/em&gt;&#34;&lt;br /&gt;
-                 18th EG/VGTC Conference on Visualization (&lt;a href=&#34;http://www.cs.rug.nl/jbi/eurovis2016/&#34;&gt;EuroVis16&lt;/a&gt;), Groningen, Netherlands&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;Abstract: [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/khartabil_2016_euroviz.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;Poster: [ &lt;a href=&#34;https://dx.doi.org/10.6084/m9.figshare.3459326.v1&#34;&gt;doi:10.6084/m9.figshare.3459326.v1&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/posters/khartabil_2016_euroviz.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/li&gt;
-
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;farrenkopf_2016_paams&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T. Farrenkopf, M. Guckert, N. Urquhart, &amp; S. Wells (2016) &#34;&lt;em&gt;Demo Paper: AGADE&lt;/em&gt;&#34;&lt;br /&gt;
-                 &lt;a href=&#34;https://www.springer.com/gp/book/9783319462172&#34;&gt;Advances in Practical Applications of Scalable Multi-agent Systems. The PAAMS Collection&lt;/a&gt;, Springer International Publishing.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;https://dx.doi.org/10.1007/978-3-319-39324-7_25&#34;&gt;doi:10.1007/978-3-319-39324-7_25&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/farrenkopf_2016_paams.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/li&gt;
-
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;wells_2015_alias&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells &amp; R. La Greca (2015) &#34;&lt;em&gt;Introducing ALIAS&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the 15th International Workshop on Computation Models of Natural Argument(&lt;a href=&#34;http://www.cmna.info/CMNA15&#34;&gt;CMNA15&lt;/a&gt;), Bertinoro, Italy.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2015_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/li&gt;
-
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;yuan_2015_safety&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T. Yuan, S. Manandhar, T. Kelly, and S. Wells (2015) &#34;&lt;em&gt;Automatically Detecting Fallacies in System Safety Arguments&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the 15th International Workshop on Computation Models of Natural Argument(&lt;a href=&#34;http://www.cmna.info/CMNA15&#34;&gt;CMNA15&lt;/a&gt;), Bertinoro, Italy.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/yuan_2015_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/li&gt;
-
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;wells_2015_combinatorial&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells (2015) &#34;&lt;em&gt;Combinatorial Dialogue Games in Strategic Argumentation&lt;/em&gt;&#34;&lt;br /&gt;
-                 Paper Abstract presented at the 1st European Conference on Argumentation: Argumentation and Reasoned Action (&lt;a href=&#34;http://ecargument.org/&#34;&gt;ECA15&lt;/a&gt;)&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/abstracts/wells_2015_eca+strategy.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ] &lt;/p&gt;
-                &lt;/li&gt;
-
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;wells_2015_sustainable&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells &amp; K. Pangbourne (2015) &#34;&lt;em&gt;Using Argumentation Within Sustainable Transport Communication&lt;/em&gt;&#34;&lt;br /&gt;
-                 Paper Abstract presented at the 1st European Conference on Argumentation: Argumentation and Reasoned Action (&lt;a href=&#34;http://ecargument.org/&#34;&gt;ECA15&lt;/a&gt;)&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/abstracts/wells_2015_eca+transport.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ] &lt;/p&gt;
-                &lt;/li&gt;
-
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;wells_2014_mining&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells, (2014), &#34;&lt;em&gt;Argument Mining: Was Ist Das?&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the 14th International Workshop on Computational Models of Natural Argument (&lt;a href=&#34;http://www.cmna.info/CMNA14&#34;&gt;CMNA14&lt;/a&gt;), Krakow, Poland.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2014_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;yuan_2014_cmna&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T, Yuan, S. Manandhar, and S. Wells, (2014), &#34;&lt;em&gt;Using Code Generation to Build a Platform for Developing and Testing Dialogue Games&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the 14th International Workshop on Computational Models of Natural Argument (&lt;a href=&#34;http://www.cmna.info/CMNA14&#34;&gt;CMNA14&lt;/a&gt;), Krakow, Poland.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/yuan_2014_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-
-                &lt;li&gt;
-                &lt;p&gt;&lt;a id=&#34;wells_2014_eai&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells, H. Kotkanen, M. Schlafli, S. Gabrielli, J. Masthoff, A. Jylha, P. Forbes (2014), &#34;&lt;em&gt;Towards an Applied Gamification Model for Tracking, Managing, &amp; Encouraging Sustainable Travel Behaviours&lt;/em&gt;&#34;&lt;br /&gt;
-                 &lt;a href=&#34;http://eudl.eu/journal/amsys&#34;&gt;EAI Endorsed Transactions on Ambient Systems&lt;/a&gt;, vol. 14 (4).&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.4108/amsys.1.4.e2&#34;&gt;doi:10.4108/amsys.1.4.e2&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2014_eai.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/li&gt;
-
-
-                &lt;li&gt;
-                &lt;p&gt;&lt;a id=&#34;forbes_2014_eai&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;P. J. Forbes, S. Gabrielli, R. Maimone, J. Masthoff, S. Wells, A. Jylha (2014), &#34;&lt;em&gt;Towards using Segmentation-based Techniques to Personalize Mobility Behavior Interventions&lt;/em&gt;&#34;&lt;br /&gt;
-                 &lt;a href=&#34;http://eudl.eu/journal/amsys&#34;&gt;EAI Endorsed Transactions on Ambient Systems&lt;/a&gt;, vol. 14 (4).&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.4108/amsys.1.4.e4&#34;&gt;doi:10.4108/amsys.1.4.e4&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/forbes_2014_eai.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/li&gt;
-
-                &lt;li&gt;
-                &lt;p&gt;&lt;a id=&#34;gabrielli_2014_chb&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Gabrielli, P. Forbes,  A. Jylha, S. Wells, M. Siiren, S. Hemminki, P. Nurmi, R. Maimone, J. Masthoff, G. Jaccuci (2014), &#34;&lt;em&gt;Design challenges in motivating change for sustainable urban mobility&lt;/em&gt;&#34;&lt;br /&gt;
-                 &lt;a href=&#34;http://www.sciencedirect.com/science/journal/07475632&#34;&gt;Computers in Human Behavior&lt;/a&gt;, vol. 41, pp. 416-423, Elsevier. &lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.1016/j.chb.2014.05.026&#34;&gt;doi:10.1016/j.chb.2014.05.026&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/li&gt;
-
-                &lt;li&gt;
-                &lt;p&gt;&lt;a id=&#34;wells_2014_usciamo&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells, H. Kotkanen, M. Schlafli, S. Gabrielli, J. Masthoff, A. Jylha, P. Forbes (2014), &#34;&lt;em&gt;Towards an Applied Gamification Model for Tracking, Managing, &amp; Encouraging Sustainable Travel Behaviours&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the &lt;a href=&#34;https://coop2014.wordpress.com/workshops/&#34;&gt;USCIAMO: Urban Sustainable, CollaboratIve, and Adaptive MObility Workshop&lt;/a&gt; hosted at the 11th International Conference on the Design of Cooperative Systems (&lt;a href=&#34;https://coop2014.wordpress.com/&#34;&gt;COOP2014&lt;/a&gt;), Nice, France.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2014_usciamo.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/li&gt;
-
-
-                &lt;li&gt;
-                &lt;p&gt;&lt;a id=&#34;forbes_2014_usciamo&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;P. J. Forbes, S. Gabrielli, R. Maimone, J. Masthoff, S. Wells, A. Jylha (2014), &#34;&lt;em&gt;Towards using Segmentation-based Techniques to Personalize Mobility Behavior Interventions&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the &lt;a href=&#34;https://coop2014.wordpress.com/workshops/&#34;&gt;USCIAMO: Urban Sustainable, CollaboratIve, and Adaptive MObility Workshop&lt;/a&gt; hosted at the 11th International Conference on the Design of Cooperative Systems (&lt;a href=&#34;https://coop2014.wordpress.com/&#34;&gt;COOP2014&lt;/a&gt;), Nice, France.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/forbes_2014_usciamo.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
-                &lt;/li&gt;
-
-
-                &lt;li&gt;
-                &lt;p&gt;&lt;a id=&#34;wells_2014_slgr&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells (2014), &#34;&lt;em&gt;Supporting Argumentation Schemes in Argumentative Dialogue Games&lt;/em&gt;&#34;&lt;br /&gt;
-                &lt;a href=&#34;http://logika.uwb.edu.pl/studies/&#34;&gt;Studies in Logic, Grammar and Rhetoric (SLGR)&lt;/a&gt; special issue on the &lt;a href=&#34;http://logika.uwb.edu.pl/studies/vol49.html&#34;&gt;Pragmatics and Dialectics of Argument, vol. 36 (1), pp. 171-191&lt;/a&gt;, De Gruyter, CC BY-NC-ND 3.0.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.2478/slgr-2014-0009&#34;&gt;doi:10.2478/slgr-2014-0009&lt;/a&gt; | &lt;a href=&#34;http://logika.uwb.edu.pl/studies/vol49.html&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2014_slgr.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-
-                &lt;li&gt;
-                &lt;p&gt;&lt;a id=&#34;jylha_2013_de&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;A. Jylha, L. Haverinen, S. Kaipiainen, G. Jacucci, P. Forbes, J. Masthoff, S. Wells, J. Finnegan, and L. Telesca (2013), &#34;&lt;em&gt;Designing a Sustainable Mobility System for Shared Transportation&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the 4th Annual Digital Economy All Hands Conference, MediaCityUK, Salford, U.K.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://de2013.org/wp-content/uploads/2013/09/de2013_submission_95.pdf&#34;&gt;pdf (DE Archive)&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/jylha_2013_de.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-
-                &lt;li&gt;
-                &lt;p&gt;&lt;a id=&#34;forbes_2013_de&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;P. Forbes, S. Wells, and J. Masthoff (2013), &#34;&lt;em&gt;Ensuring Accessibility in SUPERHUB: a Multimodal Urban Mobility Platform for European cities&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the 4th Annual Digital Economy All Hands Conference, MediaCityUK, Salford, U.K.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://de2013.org/wp-content/uploads/2013/09/de2013_submission_77.pdf&#34;&gt;pdf (DE Archive)&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/forbes_2013_de.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;
-                &lt;p&gt;&lt;a id=&#34;wells_2013_bcshci&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells, P. Forbes, J. Masthoff, S. Gabrielli and A. Jylha (2013), &#34;&lt;em&gt;SUPERHUB: Integrating Digital Behaviour Management into a Novel Sustainable Urban Mobility System&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the 27th International British Computer Society Human Computer Inter- action Conference: The Internet of things (BCS HCI 2013), University of Brunel, Uxbridge, U.K.&lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://ewic.bcs.org/content/ConWebDoc/51750&#34;&gt;BCS eWIC Archive&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2013_bcs.hci.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                 &lt;li&gt;
-                 &lt;p&gt;&lt;a id=&#34;wells_2013_towards&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells, (2013), &#34;&lt;em&gt;Towards a Foundation for Comprehensive Argumentation Scheme Support in Argumentative Dialogue Games&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the 13th International Workshop on Computational Models of Natural Argument (&lt;a href=&#34;http://www.cmna.info/CMNA13&#34;&gt;CMNA13&lt;/a&gt;), pp. 68-73, Rome, Italy.                &lt;br /&gt; 
-                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2013_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-
-                &lt;li&gt;
-                &lt;p&gt;&lt;a id=&#34;yuan_2013_protocl&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T. Yuan and S. Wells, (2013), &#34;&lt;em&gt;ProtOCL: Specifying Dialogue Games Using UML and OCL&lt;/em&gt;&#34;&lt;br /&gt;
-                 Proceedings of the 13th International Workshop on Computational Models of Natural Argument (&lt;a href=&#34;http://www.cmna.info/CMNA13&#34;&gt;CMNA13&lt;/a&gt;), pp. 74-85, Rome, Italy.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/yuan_2013_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;
-                &lt;p&gt;&lt;a id=&#34;gabrielli_2013_codesigning&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Gabrielli, R. Maimone, P. Forbes, J. Masthoff, S. Wells, L. Primerano, G. Bo, M. Pompa, L. Haverinen, (2013), &#34;Co-Designing Motivational Features for Sustainable Urban Mobility&#34;, (2013), in proceedings of the ACM SIG-CHI Conference on Human Factors in Computing Systems (&lt;a href=&#34;http://chi2013.acm.org/&#34;&gt;CHI 2013&lt;/a&gt;).&lt;br /&gt;&lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/gabrielli_2013_chi.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-            
-                &lt;li&gt;&lt;p&gt; &lt;a id=&#34;gabrielli_2013_exploring&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;  S. Gabrielli, R. Maimone, P. Forbes, S. Wells, (2013), &#34;Exploring Change Strategies for Sustainable Urban Mobility&#34;, (2013), in Designing Social Media for Change at the ACM SIG-CHI Conference on Human Factors in Computing Systems  (&lt;a href=&#34;http://chi2013.acm.org/&#34;&gt;CHI 2013&lt;/a&gt;).&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://noreenkamal.files.wordpress.com/2013/03/gabrielli-et-al-final.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/gabrielli_2013_chi.ws.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;wells_2012_dgdl&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt; S. Wells and C. Reed, (2012),  &#34;A Domain Specific Language for Describing  Diverse Systems of Dialogue&#34;, (2012), in Journal of Applied Logic, vol. 10 (4), pp. 309–329.&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.1016/j.jal.2012.09.001%20%20&#34;&gt;doi:10.1016/j.jal.2012.09.001&lt;/a&gt; | &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S1570868312000602#FCANote&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2012_a.domain.specific.language.for.describing.diverse.systems.of.dialogue.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;forbes_2012_superhub&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt; P. J. Forbes, S. Wells, J. Masthoff, H. Nguyen (2012), &#34;SUPERHUB: Integrating behaviour  change theories into a sustainable urban-mobility platform&#34;, (2012), in  Proceedings of Using Technology to Facilitate Behaviour Change and  Support Healthy, Sustainable Living @ BCS HCI 2012.&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://ewic.bcs.org/upload/pdf/ewic_hci12_sl_paper6.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/forbes_2012_bcs.hci.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;reed_2011_ontology&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt; C. Reed, S. Wells, M. Snaith, K. Budzynska &amp;amp; J. Lawrence, (2011), &#34;Using an  argument ontology to develop pedagogical tool suites&#34;, (2011), in   Proceedings of the Third International Congress on Tools for Teaching  Logic (TICTTL 2011). Salamanca, Spain. Published in Lecture Notes in Computer Science       &lt;span id=&#34;book-volume&#34;&gt;Volume 6680, &lt;/span&gt; &lt;span id=&#34;copyright-year&#34;&gt;2011, &lt;/span&gt; &lt;span id=&#34;page-range&#34;&gt; pp 207-214 &lt;/span&gt;&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt;[  &lt;a href=&#34;http://dx.doi.org/10.1007%2f978-3-642-21350-2_25&#34;&gt;doi:10.1007/978-3-642-21350-2_25&lt;/a&gt; | &lt;a href=&#34;http://link.springer.com/chapter/10.1007%2F978-3-642-21350-2_25&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;http://www.arg.dundee.ac.uk/people/chris/publications/2011/ticttl.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/reed_2011_ticttl.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;reed_2010_building&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt; C. Reed, S. Wells, K. Budzynska &amp;amp; J. T. Devereux, (2010), &amp;ldquo;Building Arguments with Argumentation: The Role of Illocutionary Force in Computational Models of Argument&amp;rdquo;, in Proceedings of the Third International Conference on Computational Models of Argument (COMMA 2010). Desenzano del Garda, Italy.&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.3233/978-1-60750-619-5-415&#34;&gt;doi:10.3233/978-1-60750-619-5-415&lt;/a&gt; | &lt;a href=&#34;http://ebooks.iospress.nl/publication/6050&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;http://www.arg.dundee.ac.uk/~chris/publications/2010/comma2010-reed.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/reed_2010_comma.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;wells_2009_argument&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt; S. Wells, C. Gourlay, and C. Reed, (2009), &amp;ldquo;Argument Blogging&amp;rdquo;, in &lt;em&gt;9th International Workshop on Computational Models of Natural Argument. IJCAI 2009, Pasadena, California, U.S.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://www.cmna.info/CMNA9/proceedings/CMNA9-Wells%20et%20al.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2009_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;ravenscroft_2009_mapping&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;A. Ravenscroft, S. Wells, M. Sagar, and C. Reed, (2009), &amp;ldquo;Mapping Persuasive Dialogue Games onto Argumentation Structures&amp;rdquo;, In &lt;em&gt;Symposium on Persuasive Technology &amp;amp; Digital Behaviour Intervention&lt;/em&gt; held at the AISB Convention in Edinburgh, April 2009.&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://www.aisb.org.uk/convention/aisb09/Proceedings/PERSUASIVE/FILES/WellsS.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/ravenscroft_2009_aisb.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;p&gt;
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;wells_2008_using&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2008), &amp;ldquo;Using dialogical argument as an interface to complex debates&amp;rdquo;, in &lt;em&gt;IEEE Potentials&lt;/em&gt;, Volumne 27, No 5, pp. 26--30&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://dx.doi.org/10.1109/MPOT.2008.928452&#34;&gt;doi:10.1109/MPOT.2008.928452&lt;/a&gt; | &lt;a href=&#34;http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=4625357&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2008_ieee.potentials.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;C. Reed, J. Devereux, S. Wells, &amp;amp; G. Rowe, (2008), &amp;ldquo;AIF+: Dialogue in the Argument Interchange Format&amp;rdquo;, in &lt;em&gt;In A. Hunter (editor): Computational Models of Argument, Proceedings of the Second International Conference on Computational Models of Argument (COMMA 2008). Toulouse, France.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://ebooks.iospress.nl/publication/4199&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/reed_2008_aif.plus.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells,  P. Łoziński,  M. N. Pham, (2008), &#34;&lt;span class=&#34;cit-dark-large-link&#34;&gt;Towards An Arguing Agents Competition: Architectural Considerations&lt;/span&gt;&#34; in &lt;em&gt;Proceedings of 8th CMNA (Computational Models of Natural Argument)  workshop, European Conference on Artificial Intelligence (ECAI),  University of Patras, Greece.&lt;/em&gt; &lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://www.cmna.info/CMNA8/programme/CMNA8-Wells-etal.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2008_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2008), &amp;ldquo;MAgtALO: An Agent-Based System for Persuasive Online Interaction&amp;rdquo;, in &lt;em&gt;Symposium on Persuasive Technology held at the AISB Convention in Aberdeen, April 2008.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2008_aisb.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2007), &amp;ldquo;MAgtALO: Using Agents, Arguments, and the Web to Explore Complex Debates&amp;rdquo;, in &lt;em&gt;Agents, Web-Services, and Ontologies: Integrated Methodologies. AWESOME 2007, Durham, U.K.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://awesome007.disi.unige.it/WellsEtAl-AWESOME007.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2007_magtalo_awesome.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;C. Reed and S. Wells, (2007), &amp;ldquo;Dialogical Argument as an Interface to Complex Debates&amp;rdquo;, in &lt;em&gt;IEEE Intelligent Systems Journal, Special Issue on Argumentation Technology&lt;/em&gt;, Volume 22, No 6, pp. 60--65&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://dx.doi.org/10.1109/MIS.2007.106&#34;&gt;doi:10.1109/MIS.2007.106&lt;/a&gt; | &lt;a href=&#34;http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=4397211&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/reed_2007_magtalo_ieee.isj.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;D. Kalofonos, N. Karunatillake, N. R. Jennings, T. J. Norman, C. Reed and S. Wells, (2006), &amp;ldquo;Building Agents that Plan and Argue in a Social Context&amp;rdquo;, in &lt;em&gt;Proceedings of the First International Conference on Computational Models of Argument, COMMA 2006, Liverpool, U.K.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://ebooks.iospress.nl/publication/2928&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/kalofonos_2006_comma.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2006), &amp;ldquo;Knowing When to Bargain&amp;rdquo;, in &lt;em&gt;1st Conference on Computational Models of Argument. COMMA 2006, Liverpool, U.K.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://ebooks.iospress.nl/publication/2951&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2006_comma.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2006), &amp;ldquo;Cumulativeness in Dialectical Games&amp;rdquo;, in &lt;em&gt;6th International Conference on Argumentation. ISSA 2006, Amsterdam, Netherlands&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://dx.doi.org/10.6084/m9.figshare.156049&#34;&gt;doi:10.6084/m9.figshare.156049&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2006_issa.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2006), &amp;ldquo;Knowing When to Bargain&amp;rdquo;, in &lt;em&gt;6th International Workshop on Computational Models of Natural Argument. ECAI 2006, Riva del Garda, Italy&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;cgi.csc.liv.ac.uk/~floriana/CMNA6/CMNA06Wells.pdf&#34;&gt;pdf (official)&lt;/a&gt; | &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2006_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;    
-                
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2006), &amp;ldquo;Testing Formal Dialectic&amp;rdquo;, in &lt;em&gt;Proceedings of the Second International Workshop on Argumentation in Multi Agent Systems (ArgMAS).&lt;/em&gt;, AAMAS 2005, Utrecht, Netherlands&amp;nbsp; Springer, &lt;a href=&#34;http://www.springer.com/computer/ai/book/978-3-540-36355-2&#34;&gt;Lecture Notes in Artificial Intelligence (LNAI) 4049&lt;/a&gt;.&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2005_argmas.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2005), &amp;ldquo;Testing Computational Dialectic&amp;rdquo;, in &lt;em&gt;5th International Workshop on Computational Models of Natural Argument. IJCAI 2005, Edinburgh, Scotland, U.K.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2005_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2005), &amp;ldquo;A Drosophila For Computational Dialectics&amp;rdquo;, in &lt;em&gt;Fourth International Joint Conference on Autonomous Agents &amp;amp; Multi Agent Systems. AAMAS 2005&lt;/em&gt;, Utrecht, Netherlands&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; Abstract: [ &lt;a href=&#34;http://dx.doi.org/10.1145/1082473.1082724&#34;&gt;doi:10.1145/1082473.1082724&lt;/a&gt; |  &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2005_aamas.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                 &lt;p class=&#34;text-right&#34;&gt; Poster: [ &lt;a href=&#34;https://dx.doi.org/10.6084/m9.figshare.744820.v1&#34;&gt;doi:10.6084/m9.figshare.744820.v1&lt;/a&gt; |  &lt;a href=&#34;http://arg.napier.ac.uk/assets/posters/wells_2005_aamas.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]          
-                &lt;/p&gt;&lt;/li&gt;
-
-                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2005), &amp;ldquo;Formal Dialectic Specification&amp;rdquo;, In I. Rahwan, P. Moraitis and C. Reed (Editors): &lt;em&gt;Proceedings of the First International Workshop on Argumentation in Multi-Agent Systems (ArgMAS) &lt;/em&gt;, AAMAS 2004, New York, NY, USA.&amp;nbsp; Springer, &lt;a href=&#34;http://www.springer.com/computer/ai/book/978-3-540-24526-1&#34;&gt;Lecture Notes in Artificial Intelligence (LNAI) 3366&lt;/a&gt;.&lt;br /&gt; &lt;/p&gt; 
-                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2004_argmas.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
-                &lt;/p&gt;&lt;/li&gt;
-            &lt;/ol&gt;
-</description>
+      <description>S. Wells (2017) &#34;The role of faulty inferences in interrogation dialogues&#34;
+Abstract for poster presented at the 2nd European Conference on Argumentation: Argumentation and Inference (ECA17), Fribourg, Switzerland.
+[ pdf ]   K. Pangbourne, A. Baker-Graham, &amp; S. Wells (2017) &#34;The Role of Inference in Constructing, Communicating and Sustaining Behaviour Change Arguments&#34;
+Abstract for poster presented at the 2nd European Conference on Argumentation: Argumentation and Inference (ECA17), Fribourg, Switzerland.</description>
     </item>
     
     <item>
@@ -482,10 +149,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/people/simon-wells/</guid>
-      <description>&lt;p&gt;You can find more information at Simon&amp;rsquo;s personal &lt;a href=&#34;http://www.simonwells.org&#34;&gt;academic website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University. His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques. Generally, he is interested in how argumentation can be used to understand the world, resolve conflicts, and influence others. He maintains &lt;a href=&#34;http://arg.napier.ac.uk&#34;&gt;ARG@ENU&lt;/a&gt; and does Argumentation Research to develops argument-mining, dialogue management, and behaviour change tools.&lt;/p&gt;
-</description>
+      <description>You can find more information at Simon&amp;rsquo;s personal academic website.
+Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University. His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques. Generally, he is interested in how argumentation can be used to understand the world, resolve conflicts, and influence others. He maintains ARG@ENU and does Argumentation Research to develops argument-mining, dialogue management, and behaviour change tools.</description>
     </item>
     
     <item>
@@ -494,18 +159,28 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/admin/travel/</guid>
-      <description>
-
-&lt;h2 id=&#34;getting-to-us&#34;&gt;Getting To Us&lt;/h2&gt;
-
-&lt;p&gt;We are based on the Merchiston campus of &lt;a href=&#34;http://www.napier.ac.uk&#34;&gt;Edinburgh Napier University&lt;/a&gt; in Scotlands capital city of Edinburgh. Getting to us is easy:&lt;/p&gt;
-
-&lt;h4 id=&#34;by-road&#34;&gt;By Road&lt;/h4&gt;
-
-&lt;h4 id=&#34;by-rail&#34;&gt;By Rail&lt;/h4&gt;
-
-&lt;h4 id=&#34;by-air&#34;&gt;By Air&lt;/h4&gt;
-</description>
+      <description> Getting To Us We are based on the Merchiston campus of Edinburgh Napier University in Scotlands capital city of Edinburgh. Getting to us is easy:
+By Road By Rail By Air </description>
+    </item>
+    
+    <item>
+      <title>Vacancies</title>
+      <link>http://arg.napier.ac.uk/page/admin/vacancies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/page/admin/vacancies/</guid>
+      <description>There are currently no vacancies for funded positions. When there are jobs we&amp;rsquo;ll advertise them here, on jobs.ac.uk, on the ARGTHRY list, and in other places as appropriate.</description>
+    </item>
+    
+    <item>
+      <title>Working With Us</title>
+      <link>http://arg.napier.ac.uk/page/admin/collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/page/admin/collaboration/</guid>
+      <description>Vacancies There are occasionally vacancies for permanent and fixed-term positions in the group which will be linked to from here.
+Research Visitors We aim to support the exchange of ideas with researchers both in Argumentation and related fields so we welcome visiting scholars.
+If you are interested in a research visit to ARG@ENU you should email a CV and covering letter describing your proposed research to Dr. Simon Wells.</description>
     </item>
     
   </channel>
