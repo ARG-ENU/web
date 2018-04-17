@@ -101,6 +101,10 @@
   </url>
   
   <url>
+    <loc>http://arg.napier.ac.uk/page/admin/studentprojects/</loc>
+  </url>
+  
+  <url>
     <loc>http://arg.napier.ac.uk/tags/</loc>
     <priority>0</priority>
   </url>
