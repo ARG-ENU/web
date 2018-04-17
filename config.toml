@@ -169,4 +169,9 @@ pygmentCodeFences = true
         url = "/page/admin/vacancies/"
         weight = 3
 
+    [[menu.main]]
+        parent = "admin"
+        name = "student projects"
+        url = "/page/admin/studentprojects/"
+        weight = 4
 
