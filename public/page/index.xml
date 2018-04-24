@@ -70,7 +70,8 @@ refusing to be persuaded or to change one&amp;rsquo;s mind: he is adamant that h
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/argument-cartography/</guid>
-      <description>People have long visualised argument structure in order to better understand and analyse arguments. Initially this activity was paper based and lead to a variety of diagram styles, for example, Wigmore produced a large and complex visual language to describe legal argument whilst Toulmin produced a compact and popular style for describing individual arguments. Machine were used to support argument analysis and visualisation, leading to software such as Araucaria and Rationale, which define their own versions of the standard argument diagram familiar from basic logic.</description>
+      <description>People have long visualised argument structure in order to better understand and analyse arguments. Initially this activity was paper based and lead to a variety of diagram styles, for example, Wigmore produced a large and complex visual language to describe legal argument whilst Toulmin produced a compact and popular style for describing individual arguments.
+Machines were used to support argument analysis and visualisation, leading to software such as Araucaria and Rationale, which define their own versions of the standard argument diagram familiar from basic logic.</description>
     </item>
     
     <item>
@@ -140,7 +141,8 @@ Abstract for poster presented at the 2nd European Conference on Argumentation: A
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/sadface/</guid>
-      <description></description>
+      <description>SADFace is a simple JSON based Argument description format, software library, and supporting tools to enable developers and researchers to describe arguments then easily reuse their data. The goal is to make it as easy as possible to incorporate argument data into modern software.
+There are a number of argument description and markup languages, for example, the Argument Markup Language (AML) and the Argument Interchange Format (AIF). Both have their advantages and disadvantages, AML is a simple tree-based format, but is a pain to parse, and requires an XML toolchain, something that is falling out of favour amongst main-stream web toolchains.</description>
     </item>
     
     <item>

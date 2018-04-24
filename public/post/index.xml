@@ -24,6 +24,25 @@ Until 31st May 2018, ARG@ENU invites applications for unfunded PhD research post
     </item>
     
     <item>
+      <title>MonkeyPuzzle Beta</title>
+      <link>http://arg.napier.ac.uk/post/2018.04.11_monkeypuzzle/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2018.04.11_monkeypuzzle/</guid>
+      <description>The latest (beta) version of MonkeyPuzzle, our browser-based argument analysis software, has been deployed: http://arg.napier.ac.uk/monkeypuzzle/</description>
+    </item>
+    
+    <item>
+      <title>SADFace</title>
+      <link>http://arg.napier.ac.uk/post/2018.02.01_sadface/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2018.02.01_sadface/</guid>
+      <description>We are pleased to introduce SADFace, our simple argument description format for describing arguments along with associated tools &amp;amp; libraries for creating and using SADFace documents.
+ Project page - if you want to learn more, or the Code repository - if you want to start using SADFace immediately  </description>
+    </item>
+    
+    <item>
       <title>Poster Presentation on Argument Visualisation at Scale</title>
       <link>http://arg.napier.ac.uk/post/2017.06.23_eca_dana/</link>
       <pubDate>Fri, 23 Jun 2017 14:58:11 +0100</pubDate>
@@ -50,7 +69,16 @@ SHORT ABSTRACT: Poor communication can undermine the preparatory work, conducted
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/post/2017.04.11_lovelace/</guid>
       <description>With Argument Card Debate (Ar:Ca:De) games we are building online and offline debate games that use &amp;lsquo;Argument Cards&amp;rsquo;, representations of arguments depicted using playing cards. The aim is to support people in engaging with both their own and other people&amp;rsquo;s arguments.
-Amantle Craviolatti recently attended the 2017 BCSWomen Lovelace Colloquium to present a poster and talk about her project with other Women in Computing. The poster can be downloaded from our publications page</description>
+Amantle Craviolatti recently attended the 2017 BCSWomen Lovelace Colloquium to present a poster and talk about her project with other Women in Computing. The poster can be downloaded from our publications page.</description>
+    </item>
+    
+    <item>
+      <title>MonkeyPuzzle Alpha</title>
+      <link>http://arg.napier.ac.uk/post/2017.04.04_monkeypuzzle-/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2017.04.04_monkeypuzzle-/</guid>
+      <description>An Alpha version of MonkeyPuzzle, our browser-based argument analysis software, has been deployed: http://arg.napier.ac.uk/monkeypuzzle/</description>
     </item>
     
     <item>
