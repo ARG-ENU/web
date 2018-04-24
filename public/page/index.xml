@@ -108,8 +108,8 @@ This dataset is under continuous development to support research in behaviour ch
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/monkeypuzzle/</guid>
-      <description>There are two Monkeypuzzle tools; a rebranded version of Araucaria &amp;amp; a novel web interface. The aim is to provide argument analysis tools that are not dependent upon the cloud or other people&amp;rsquo;s computers so that, if you are a researcher or argument analyst you do not have to risk your workflow to the goodwill or longevity of third-party research organisations or commerical companies.
-Monkeypuzzle (Web) A free (GPL), open-source, web-based (HTML5, CSS, Javascript) argument analysis tool.</description>
+      <description>Much argumentation research begins with analysis of real world examples. Even as we move towards compuational argumentation systems, there is still much that can be learned from examining how people interact argumentatively. The MonkeyPuzzle tools aim to provide graphical interfaces to a suite of tools for analysing, storing, and working with argument resources.
+Our tools come in two flavours, a Browser-hosted web application and a Desktop-based Java applications (which is essentially Araucaria built for a modern JVM).</description>
     </item>
     
     <item>
