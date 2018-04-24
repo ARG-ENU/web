@@ -29,7 +29,7 @@ However you can also download Monkeypuzzle and run it from your local file syste
 * As a local, non-server based single-page web-app
 * As a browser-hosted, offline app
 
-The source code for MonkeyPuzzle (web) is available from the [project repository](https://github.com/ARG-ENU/monkeypuzzle_web) which also hosts the [issue-tracker](https://github.com/ARG-ENU/monkeypuzzle_web/issues) to support ongoing developement. There is also a live, hosted version. 
+The source code for MonkeyPuzzle (web) is available from the [project repository](https://github.com/ARG-ENU/monkeypuzzle_web) which also hosts the [issue-tracker](https://github.com/ARG-ENU/monkeypuzzle_web/issues) to support ongoing developement & bugfixing.  
 
 ## Monkeypuzzle (Desktop)
 
@@ -37,3 +37,6 @@ Araucaria was one of the first computer-based argument analysis tools, developed
 
 As a result, Araucaria was adopted under it's GPL license, the code was added to a modern source-control repository, and regular builds were created to ensure that the tool will run under modern Java virtual machines. To celebrate this new lease of life, Araucaria was rebranded to Monkeypuzzle.
 
+![](/img/araucaria.png)
+
+The source code for MonkeyPuzzle (desktop) is available from the [project repository](https://github.com/ARG-ENU/monkeypuzzle_desktop) which also hosts the [issue-tracker](https://github.com/ARG-ENU/monkeypuzzle_desktop/issues) to support ongoing developement & bugfixing.
