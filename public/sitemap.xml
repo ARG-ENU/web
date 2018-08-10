@@ -94,6 +94,10 @@
   </url>
   
   <url>
+    <loc>http://arg.napier.ac.uk/page/project/monkeypuzzle/quickstart/</loc>
+  </url>
+  
+  <url>
     <loc>http://arg.napier.ac.uk/page/</loc>
     <priority>0</priority>
   </url>
