@@ -8,7 +8,7 @@ comments: false
 
 Projects generally fall into a number of groups depending upon your programme, skills, and interests but are usually either software engineering projects, data gathering & analysis projects, or research projects (usually involving the development of techniques for handling data & working out new things).
 
-### Manual Argument Analysis Software
+### Manual Argument Analysis
 
 [Monkeypuzzle](http://arg.napier.ac.uk/monkeypuzzle) is a web-based tool that has been developed at ENU over the last few years. It currently support analysis of plain text and the visualisation of the results, but we'd like to extend this to deal with multi-modal arguments and arguments expressed in different media, for example, 
 
@@ -19,7 +19,7 @@ Projects generally fall into a number of groups depending upon your programme, s
 
 There are probably a whole bunch of other ways that the software could be extended such as support for analysing dialogical arguments, and once that is done, we also have a desktop version, written in Java, that needs a thorough overhaul. Projects in this area are more oriented towards software engineering processes.
 
-### Argument Mining
+### Argument Mining - Automated Argument Analysis
 
 Argument Mining is the automatic detection, analysis, extraction, and reconstruction, of arguments from real world source, basically from anything that might contain arguments. This is a tough problem that is currently a hot research topic. Projects in this area are more research focussed and involve a balance of development of algorithms & tools, together with applying those tools to a small and well-defined problem. For example, a project might be:
 
@@ -29,4 +29,4 @@ We have been developing a new tool, called pickaxe, for Argument Mining processe
 
 ### Dataset Construction & Analysis
 
-Much AI work is dependent upon data and argumentation research is no exception. Collecting high-quality research datasets is difficult and time consuming and involves the development of experimental procedures, construction of tools to aid the process, and analysis of the data gathered. Projectes in this theme will generally involve the design and construction of a web site that engages, and perhaps argues, with people with the aim of eliciting arguments and opinions that can be stored in our database of arguments, the [ArgDB](/page/project/argdb)
+Much AI work is dependent upon data and argumentation research is no exception. Collecting high-quality research datasets is difficult and time consuming and involves the development of experimental procedures, construction of tools to aid the process, and analysis of the data gathered. Projects in this theme will generally involve the design and construction of a web site that engages, and perhaps argues, with people with the aim of eliciting arguments and opinions that can be stored in our database of arguments, the [ArgDB](/page/project/argdb)
