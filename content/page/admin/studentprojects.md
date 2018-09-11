@@ -12,8 +12,8 @@ Projects generally fall into a number of groups depending upon your programme, s
 
 [Monkeypuzzle](http://arg.napier.ac.uk/monkeypuzzle) is a web-based tool that has been developed at ENU over the last few years. It currently support analysis of plain text and the visualisation of the results, but we'd like to extend this to deal with multi-modal arguments and arguments expressed in different media, for example, 
 
-* analysing arguments from audio, such as soundclound recordings,
-* video, such as youtube videos, 
+* analysing arguments from audio, such as SoundCloud recordings,
+* video, such as Youtube videos, 
 * websites, such as newspapers articles and blog posts,
 * PDFs, because a lot of research outputs are published in this form.
 
@@ -32,13 +32,13 @@ Argument mining is a tough problem that is currently a hot research topic. Proje
 
 ### Argumentative Dialogue
 
-Arguments are often discoverd, constructed, elaborated upon, and exchanged during conversation. As a result dialogue is intimately related to argument. 
+Arguments are often discovered, constructed, elaborated upon, and exchanged during conversation. As a result dialogue is intimately related to argument. 
 
 * Projects in this area can be focussed on formalising argumentative dialogue, for example as multi-player turn-taking games. Other projects can be focussed on using dialogue, perhaps via a chat-style interface to interact with argument data.
 * Discursive is a new project aimed at developing a generalised argumentative chat interface that provides dialogical access to argumentative data.
-* The Dialogue Game Description Language (DGDL) is a project that provides a domain specific language for describing the "rules" of different dialogues games. These are then . Projects can involve creating new DGDL rulesets, implementing them, and exploring their effects.
+* The Dialogue Game Description Language (DGDL) is a project that provides a domain specific language for describing the "rules" of different dialogues games. Projects can involve creating new DGDL rulesets, implementing them, and exploring their effects.
 * The Argumentative DiAlogue MANagement Tool (ADAMANT) is a project to provide a runtime engine for DGDL rules.
-* Once you have rules to play by, you still need to decide what to say. Where there is choice over what to say there is an opportunity for strategy. Projects in this area will involve selecting a dialogue game and exploring various strategies for effectiely playing that game.
+* Once you have rules to play by, you still need to decide what to say. Where there is choice over what to say there is an opportunity for strategy. Projects in this area will involve selecting a dialogue game and exploring various strategies for effectively playing that game.
 
 ### Dataset Construction & Analysis
 
