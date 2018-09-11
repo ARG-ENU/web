@@ -21,7 +21,9 @@ There are probably a whole bunch of other ways that the software could be extend
 
 ### Argument Mining - Automated Argument Analysis
 
-Argument Mining is the automatic detection, analysis, extraction, and reconstruction, of arguments from real world source, basically from anything that might contain arguments. This is a tough problem that is currently a hot research topic. Projects in this area are more research focussed and involve a balance of development of algorithms & tools, together with applying those tools to a small and well-defined problem. For example, a project might be:
+Argument Mining is the automatic detection, analysis, extraction, and reconstruction, of arguments from real world sources, basically from anything that might contain arguments, but primarily from text. A lot of argument and debate occurs through monological text, a person writes an article with the goal of persuading an audience. Often however, arguments explicitly involve multiple active participants, listening to what is said and, ideally, responding appropriately. Argumentative debate, of varying quality, occurs wherever people interact, and is increasingly occurring online.
+
+Argument mining is a tough problem that is currently a hot research topic. Projects in this area are more research focussed and involve a balance of development of algorithms & tools, together with applying those tools to a small and well-defined problem. For example, a project might be:
 
 * PickAxe is a new tool for Argument Mining processes and projects can involve extending pickaxe with the addition of new algorithms or approaches.
 * StripMine is a new project that aims to support web search for arguments. Projects related to this involve prototyping search interfaces to argumentative data as well as indexing and mining web-resources in an efficient, robust, and accurate manner.
