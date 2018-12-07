@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>s.wells@napier.ac.uk</managingEditor>
     <webMaster>s.wells@napier.ac.uk</webMaster>
-    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://arg.napier.ac.uk/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Workshop on Intelligent Machines &amp; Human Behaviour</title>
+      <link>http://arg.napier.ac.uk/post/2018.12.07_imhb/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2018.12.07_imhb/</guid>
+      <description>With colleagues from the Leeds University &amp;amp; UCL, I am organising a workshop on Intelligent Machines &amp;amp; Human Behaviour which is to be hosted at the 2019 AISB Annual Convention.
+ The first call for papers is out now: cfp The Workshop website is live: http://arg.napier.ac.uk/events/imhb/  </description>
+    </item>
     
     <item>
       <title>Research Posts in Argument Mining</title>
