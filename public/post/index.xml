@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>s.wells@napier.ac.uk</managingEditor>
     <webMaster>s.wells@napier.ac.uk</webMaster>
-    <lastBuildDate>Fri, 07 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://arg.napier.ac.uk/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Computational Models of Natural Argument Workshop</title>
+      <link>http://arg.napier.ac.uk/post/2019.01.09_cmna/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2019.01.09_cmna/</guid>
+      <description>I&amp;rsquo;m delighted to let everyone know that the 19th edition of the Workshop on Computational Models of Natural Argument will be hosted as part of the PERSUASIVE conference this year. Dr Wells, along with Jodi Schneider of the University of Illinois at Urbana-Champaign, is one of the new members of the steering committee and joins long-standing committee members, Floriana Grasso of the University of Liverpool and Nancy Green of the University of North Carolina Greensboro.</description>
+    </item>
     
     <item>
       <title>Workshop on Intelligent Machines &amp; Human Behaviour</title>
@@ -24,13 +33,13 @@
     </item>
     
     <item>
-      <title>EnHabit App wins second prize</title>
-      <link>http://arg.napier.ac.uk/post/2017.04.23_graeme.campbell/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      <title>ALIAS wins first prize</title>
+      <link>http://arg.napier.ac.uk/post/2018.11.28_marcin.szczot/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://arg.napier.ac.uk/post/2017.04.23_graeme.campbell/</guid>
-      <description>One of my honours students, Graeme Campbell, has been developing a mobile application to support behaviour change. His poster presentation recently won the second prize amongst graduating students in the school.
-The full resolution poster is available here: Full Resolution Enhabit Poster</description>
+      <guid>http://arg.napier.ac.uk/post/2018.11.28_marcin.szczot/</guid>
+      <description>One of my honours students, Marcin Szczot, has been enhancing the ALIAS library. This is a Python library for implementing abstract argumentation systems. His poster presentation recently won the first prize amongst graduating students in the school of computing.
+The full resolution poster is available here: Full Resolution ALIAS Poster</description>
     </item>
     
     <item>
@@ -80,6 +89,16 @@ SHORT ABSTRACT: Argument diagramming has become a standard tool for visualising 
       <guid>http://arg.napier.ac.uk/post/2017.06.23_eca_kate/</guid>
       <description>Kate Pangbourne presented a poster at the Second European Conference on Argumentation based upon our joint research into behaviour change campaigns and its associated argumentative practises. Briefly, we are interested in the kinds of arguments that are used in behaviour change campaigns from the Sustainable Transport Domain. This builds on work in to the Sustainable Transport Communication Dataset (STCD) theme.
 SHORT ABSTRACT: Poor communication can undermine the preparatory work, conducted over long periods, to construct favourable conditions for a major societal shift in behaviour.</description>
+    </item>
+    
+    <item>
+      <title>EnHabit App wins second prize</title>
+      <link>http://arg.napier.ac.uk/post/2017.04.23_graeme.campbell/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2017.04.23_graeme.campbell/</guid>
+      <description>One of my honours students, Graeme Campbell, has been developing a mobile application to support behaviour change. His poster presentation recently won the second prize amongst graduating students in the school.
+The full resolution poster is available here: Full Resolution Enhabit Poster</description>
     </item>
     
     <item>
