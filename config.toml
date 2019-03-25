@@ -123,12 +123,6 @@ pygmentCodeFences = true
         url = "/page/project/monkeypuzzle/"
         weight = 7
 
-    [[menu.main]]
-        parent = "projects"
-        name = "Ar:Ca:De"
-        url = "/page/project/arcade/"
-        weight = 8
-
 [[menu.main]]
     name = "outputs"
     url = "/page/outputs/"
