@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>s.wells@napier.ac.uk</managingEditor>
     <webMaster>s.wells@napier.ac.uk</webMaster>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://arg.napier.ac.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CMNA 19 Proceedings Published</title>
+      <link>http://arg.napier.ac.uk/post/2019.04.29_cmna.proceedings/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2019.04.29_cmna.proceedings/</guid>
+      <description>The proceedings for the recent Computational Models of Natural Argument workshop are now available as volume #2346 at the CEUR Archive.</description>
+    </item>
     
     <item>
       <title>Computational Models of Natural Argument Workshop</title>
