@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>s.wells@napier.ac.uk</managingEditor>
     <webMaster>s.wells@napier.ac.uk</webMaster>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://arg.napier.ac.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Self Funded Ph.D Research Posts in Argument Mining</title>
+      <link>http://arg.napier.ac.uk/post/2019.06.13_phdadvert/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2019.06.13_phdadvert/</guid>
+      <description>Argument Mining, the process of detecting, reconstructing, and extracting argument structure from natural language sources has become a hot topic in Argumentation research in recent years. This is a challenging, multi-disciplinary arena whose questions go to the heart of classical Artificial Intelligence problems related to Knowledge Representation and Natural Language Processing.
+ARG@ENU invites applications for self-funded PhD research posts in the above area. Applications will be accepted all year round and further details can be found on the FindAPhD advert.</description>
+    </item>
     
     <item>
       <title>CMNA 19 Proceedings Published</title>
