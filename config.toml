@@ -28,12 +28,12 @@ pygmentCodeFences = true
 #  desc = "Hexagon"
 
 [Author]
-  name = ""
+  name = "Simon Wells"
   email = "s.wells@napier.ac.uk"
 #  facebook = "username"
 #  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "ARG-ENU"
-  twitter = "simonwells"
+#  twitter = "username"
 #  reddit = "username"
 #  linkedin = "username"
 #  xing = "username"
