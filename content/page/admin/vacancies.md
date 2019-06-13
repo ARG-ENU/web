@@ -5,4 +5,9 @@ comments: false
 ---
 
 
-- Unfunded PhD position. Further details on the [findaphdadvert](https://www.findaphd.com/search/ProjectDetails.aspx?PJID=97323) Application Deadline: 31st May 2018
+- Ph.D Research Positions in Argument Mining. 
+    
+    - Further details on the [FindAPhD advert](https://www.findaphd.com/search/ProjectDetails.aspx?PJID=97323)
+    - Application Deadline: Self-funded applications are accepted all year round. 
+
+
