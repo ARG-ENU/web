@@ -99,6 +99,10 @@
   </url>
   
   <url>
+    <loc>http://arg.napier.ac.uk/page/project/canary/</loc>
+  </url>
+  
+  <url>
     <loc>http://arg.napier.ac.uk/categories/</loc>
     <priority>0</priority>
   </url>
