@@ -16,6 +16,7 @@ Projects generally fall into a number of groups depending upon your programme, s
 * video, such as Youtube videos, 
 * websites, such as newspapers articles and blog posts,
 * PDFs, because a lot of research outputs are published in this form.
+* Support Leo Groarke's ART visual argument analysis method ([groarke_2019_depicting.visual.arguments](https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/view/123/303/1653-1))
 
 There are probably a whole bunch of other ways that the software could be extended such as support for analysing dialogical arguments, and once that is done, we also have a desktop version, written in Java, that needs a thorough overhaul. Projects in this area are more oriented towards software engineering processes.
 
@@ -25,11 +26,12 @@ Argument Mining is the automatic detection, analysis, extraction, and reconstruc
 
 Argument mining is a tough problem that is currently a hot research topic. Projects in this area are more research focussed and involve a balance of development of algorithms & tools, together with applying those tools to a small and well-defined problem. For example, a project might be:
 
-* PickAxe is a new tool for Argument Mining processes and projects can involve extending pickaxe with the addition of new algorithms or approaches.
-* StripMine is a new project that aims to support web search for arguments. Projects related to this involve prototyping search interfaces to argumentative data as well as indexing and mining web-resources in an efficient, robust, and accurate manner.
+* Canary is a new Python library for Argument Mining. Depending upon your degree programme, projects will involve either extending canary with the addition of new algorithms then evaluating & benchmarking them, or else developing new features for the library.
+* PickAxe is a project that aims to provide a search interface for arguments. Projects related to this topic involve prototyping search-oriented user interfaces and APIS to argumentative data. 
+* StripMine is a project to develop a pipeline of argument mining tools that can be pointed towards a given resource, e.g. a database, dataset, the web, common crawl, and which will extract structured argument data and store it in a database for reuse. Stripmine builds on other projects, for eaxmple, using algorithms from Canary, and user interfaces from PickAxe, together with off-the-shelf software to provide an end-to-end argument mining solution.
 * Developing an algorithm to automatically detect periodic sentences, classify them as argument or non-argument, and convert them into argumentation structures that are saved using the [SADFace](/page/project/sadface) format (developed at ENU). NB. Periodic sentences often encapsulate an entire argument, including premises and conclusion, into a single sentence, e.g. "The beach, with white sand, crystal clear water, and palm trees, is a favorite hangout for the locals." but they are problematic because they may have various forms, and sometimes the same form can express an argument and at other times the sentence does not contain an argument.
 * Developing an algorithm to automatically detect overlaps between SADFace arguments. For example, two statements might express the same idea, but be presented in different ways. The aim of this project is to identify those instances so that these arguments can be combined.
-* Providing an API that [Monkeypuzzle](http://arg.napier.ac.uk/monkeypuzzle) (see above under "Manual Argument Analysis") can use to automate some of the process of analysing argumentative text so that that tool can begin the process of moving from completely manual, towards semi-automated, and eventually perhaps, completely automated operation.
+* Integrate argument mining functionality into the [Monkeypuzzle](http://arg.napier.ac.uk/monkeypuzzle) (see above under "Manual Argument Analysis") tool. This way we can begin the process of moving from completely manual analysis, towards semi-automated, and eventually perhaps, completely automated operation.
 
 ### Argumentative Dialogue
 
@@ -45,8 +47,8 @@ Arguments are often discovered, constructed, elaborated upon, and exchanged duri
 
 Much AI work is dependent upon data and argumentation research is no exception. Collecting high-quality research datasets is difficult and time consuming and involves the development of experimental procedures, construction of tools to aid the process, and analysis of the data gathered. 
 
-* Projects in this theme will generally involve the design and construction of a web site that engages, and perhaps argues, with people with the aim of eliciting arguments and opinions that can be stored in our database of arguments, the [ArgDB](/page/project/argdb)
 * The Argument Database (ArgDB) is a project that aims to provide a datastore, web interface, and API for analysed arguments represented using the SADFace format. The goal is for instances of ArgDB to be flexibly deployed on servers, and personal computers, in both public and private instances, and with full support for managing and federating argument data between instances. Projects in this area will involve designing, implementing, testing, and evaluating extensions to the ArgDB.
+* Projects in this theme will generally involve the design and construction of a web site that engages, and perhaps argues, with people with the aim of eliciting arguments and opinions that can be stored in our database of arguments, the [ArgDB](/page/project/argdb)
 
 ### Abstract Argumentation
 
