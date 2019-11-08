@@ -83,45 +83,51 @@ pygmentCodeFences = true
 
     [[menu.main]]
         parent = "projects"
-        name = "Argument Cartography"
-        url = "/page/project/argument-cartography/"
+        name = "Alias"
+        url = "/page/project/alias/"
         weight = 1
 
     [[menu.main]]
         parent = "projects"
-        name = "ArgDB"
-        url = "/page/project/argdb/"
+        name = "Argument Cartography"
+        url = "/page/project/argument-cartography/"
         weight = 2
-
-    [[menu.main]]
-        parent = "projects"
-        name = "DGDL"
-        url = "/page/project/dgdl/"
-        weight = 3
 
     [[menu.main]]
         parent = "projects"
         name = "ADAMANT"
         url = "/page/project/adamant/"
+        weight = 3
+
+    [[menu.main]]
+        parent = "projects"
+        name = "ArgDB"
+        url = "/page/project/argdb/"
         weight = 4
+
+    [[menu.main]]
+        parent = "projects"
+        name = "Canary"
+        url = "/page/project/canary/"
+        weight = 5
+
+    [[menu.main]]
+        parent = "projects"
+        name = "DGDL"
+        url = "/page/project/dgdl/"
+        weight = 6
 
     [[menu.main]]
         parent = "projects"
         name = "SADFace"
         url = "/page/project/sadface/"
-        weight = 5
-
-    [[menu.main]]
-        parent = "projects"
-        name = "Alias"
-        url = "/page/project/alias/"
-        weight = 6
+        weight = 7
 
     [[menu.main]]
         parent = "projects"
         name = "MonkeyPuzzle"
         url = "/page/project/monkeypuzzle/"
-        weight = 7
+        weight = 8
 
 [[menu.main]]
     name = "outputs"
