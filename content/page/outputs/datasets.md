@@ -20,3 +20,16 @@ The dataset itself is stored in a Git repository and is available via the [STCD 
 
 This dataset has been developed to support research into visualisation of large-scale argument datasets. A goal in assembling this dataset was to develop a single, cohesive, large-scale dataset for a specific contentious real-world domain. The dataset is used in the [Argument Cartography](/page/project/argument-cartography/) project. 
 
+#### Partisan Political Advertising Dataset (PPAD)
+<a id="ppad" style="visibility: hidden"></a>
+
+This dataset was constructed as part of research into the uses of digital technology to persuade voters. The core data consists of analyses and reconstructions of a set of political adverts that were used by leave aligned campaigns during the 2016 EU referendum and were submitted to a Select Committee of the  House of Commons Department of Culture, Media, and Sport (DCMS).
+
+#### Moral Maze Dataset (MMD)
+<a id="mmd" style="visibility: hidden"></a>
+
+This dataset was constructed from the Art-Tech data release of BBC Moral Maze transcripts. The original data was published as a Word document. This was processed to produce a cleaned set of versioned data that is stored in a useable format.
+
+* [Data Repository](https://github.com/siwells/dataset_moral.maze)
+* [Project Web Page](https://siwells.github.io/dataset_moral.maze/)
+
