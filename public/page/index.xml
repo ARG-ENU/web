@@ -85,15 +85,6 @@ The goal of Argument Mining is to automatically analyse arguments within natural
     </item>
     
     <item>
-      <title>Dana Khartabil</title>
-      <link>http://arg.napier.ac.uk/page/people/dana-khartabil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>s.wells@napier.ac.uk (Simon Wells)</author>
-      <guid>http://arg.napier.ac.uk/page/people/dana-khartabil/</guid>
-      <description>Dana is a Ph.D student funded under the fifty years of Edinburgh Napier scholarship scheme. Her research focusses on how to usefully visualise and consequently work with increasingly large argumentation datasets. Her research contributes to the Argument Cartography project.</description>
-    </item>
-    
-    <item>
       <title>Datasets</title>
       <link>http://arg.napier.ac.uk/page/outputs/datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -102,6 +93,16 @@ The goal of Argument Mining is to automatically analyse arguments within natural
       <description>Sustainable Transport Communications Dataset (STCD) 
 This dataset is under continuous development to support research in behaviour change for sustainable transport and to provide an exemplar of practise in developing datasets to underpin reproducible &amp;amp; replicable Computer Science research. It has been reported upon in the following publications:
  (2017) Abstract presented at the 2nd European Conference on Argumentaion (2016) Studies in Logic and Argumentation 62, Chapter 34 (2015) Abstract presented at the 1st European Conference on Argumentation  The dataset itself is stored in a Git repository and is available via the STCD website</description>
+    </item>
+    
+    <item>
+      <title>Dr. Dana Khartabil</title>
+      <link>http://arg.napier.ac.uk/page/people/dana-khartabil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk (Simon Wells)</author>
+      <guid>http://arg.napier.ac.uk/page/people/dana-khartabil/</guid>
+      <description>Dana was a Ph.D student funded under the fifty years of Edinburgh Napier scholarship scheme. Her research focussed on how to usefully visualise and consequently work with increasingly large argumentation datasets. Her research contributes to the Argument Cartography theme of the group.
+Dana successfully defended her Ph.D thesis entitiled &amp;ldquo;Visualisation Techniques to Facilitate Argument Exploration&amp;rdquo; on Friday 6th December 2019.</description>
     </item>
     
     <item>
