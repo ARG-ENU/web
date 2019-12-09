@@ -48,6 +48,7 @@ Arguments are often discovered, constructed, elaborated upon, and exchanged duri
 Much AI work is dependent upon data and argumentation research is no exception. Collecting high-quality research datasets is difficult and time consuming and involves the development of experimental procedures, construction of tools to aid the process, and analysis of the data gathered. 
 
 * The Argument Database (ArgDB) is a project that aims to provide a datastore, web interface, and API for analysed arguments represented using the SADFace format. The goal is for instances of ArgDB to be flexibly deployed on servers, and personal computers, in both public and private instances, and with full support for managing and federating argument data between instances. Projects in this area will involve designing, implementing, testing, and evaluating extensions to the ArgDB.
+* Building an integrated dataset collection tool to support the RADAR (Reproducible Approach to Datasets for Argumentation Research) methodology. This could be a web or desktop based tool which supports and enables the user to construct their argumentative datasets according to the principles of the RADAR methodology.
 * Projects in this theme will generally involve the design and construction of a web site that engages, and perhaps argues, with people with the aim of eliciting arguments and opinions that can be stored in our database of arguments, the [ArgDB](/page/project/argdb)
 
 ### Abstract Argumentation
