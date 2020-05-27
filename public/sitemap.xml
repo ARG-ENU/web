@@ -138,6 +138,10 @@
   </url>
   
   <url>
+    <loc>http://arg.napier.ac.uk/page/project/oapl/</loc>
+  </url>
+  
+  <url>
     <loc>http://arg.napier.ac.uk/page/</loc>
     <priority>0</priority>
   </url>
