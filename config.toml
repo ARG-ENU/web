@@ -119,15 +119,21 @@ pygmentCodeFences = true
 
     [[menu.main]]
         parent = "projects"
+        name = "OAPL"
+        url = "/page/project/oapl/"
+        weight = 7
+
+    [[menu.main]]
+        parent = "projects"
         name = "SADFace"
         url = "/page/project/sadface/"
-        weight = 7
+        weight = 8
 
     [[menu.main]]
         parent = "projects"
         name = "MonkeyPuzzle"
         url = "/page/project/monkeypuzzle/"
-        weight = 8
+        weight = 9
 
 [[menu.main]]
     name = "outputs"
