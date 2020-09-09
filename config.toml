@@ -142,7 +142,7 @@ weight = 3
 
     [[menu.main]]
     parent = "outputs"
-    name = "datasets"
+    name = "Datasets"
     url = "/outputs/datasets/"
     weight = 2
 
