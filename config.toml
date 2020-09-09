@@ -6,7 +6,7 @@ languageName = "En"
 languageCode = "en-us"
 # post pagination
 paginate = "5"
-canonifyURLs = true
+#canonifyURLs = true
 # disqus short name
 #disqusShortname = "" # get your shortname form here : https://disqus.com
 #disableKinds = ["taxonomy", "term"]
