@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Canary on ARG@ENU</title>
-    <link>https://arg.napier.ac.uk/projects/canary/</link>
+    <link>http://arg.napier.ac.uk/projects/canary/</link>
     <description>Recent content in Canary on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://arg.napier.ac.uk/projects/canary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://arg.napier.ac.uk/projects/canary/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

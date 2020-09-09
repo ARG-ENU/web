@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MonkeyPuzzle on ARG@ENU</title>
-    <link>https://arg.napier.ac.uk/projects/monkeypuzzle/</link>
+    <link>http://arg.napier.ac.uk/projects/monkeypuzzle/</link>
     <description>Recent content in MonkeyPuzzle on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://arg.napier.ac.uk/projects/monkeypuzzle/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://arg.napier.ac.uk/projects/monkeypuzzle/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
