@@ -158,13 +158,13 @@ weight = 4
 
     [[menu.main]]
     parent = "People"
-    name = "affiliate members"
+    name = "Affiliate Members"
     url = "/people/affiliates/"
     weight = 2
 
     [[menu.main]]
     parent = "People"
-    name = "past members"
+    name = "Past Members"
     url = "/people/past/"
     weight = 3
 
