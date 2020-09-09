@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CMNA Workshop on ARG@ENU</title>
+    <link>https://arg.napier.ac.uk/categories/cmna-workshop/</link>
+    <description>Recent content in CMNA Workshop on ARG@ENU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://arg.napier.ac.uk/categories/cmna-workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computational Models of Natural Argument Workshop (CMNA&#39;19)</title>
+      <link>https://arg.napier.ac.uk/posts/2019.01.09_cmna/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://arg.napier.ac.uk/posts/2019.01.09_cmna/</guid>
+      <description>I&amp;rsquo;m delighted to let everyone know that the 19th edition of the Workshop on Computational Models of Natural Argument will be hosted as part of the PERSUASIVE conference this year. Dr Wells, along with Jodi Schneider of the University of Illinois at Urbana-Champaign, is one of the new members of the steering committee and joins long-standing committee members, Floriana Grasso of the University of Liverpool and Nancy Green of the University of North Carolina Greensboro.</description>
+    </item>
+    
+  </channel>
+</rss>

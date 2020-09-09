@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mining on ARG@ENU</title>
+    <link>https://arg.napier.ac.uk/tags/mining/</link>
+    <description>Recent content in mining on ARG@ENU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://arg.napier.ac.uk/tags/mining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Self Funded Ph.D Research Posts in Argument Mining</title>
+      <link>https://arg.napier.ac.uk/posts/2019.06.13_phdadvert/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://arg.napier.ac.uk/posts/2019.06.13_phdadvert/</guid>
+      <description>Argument Mining, the process of detecting, reconstructing, and extracting argument structure from natural language sources has become a hot topic in Argumentation research in recent years. This is a challenging, multi-disciplinary arena whose questions go to the heart of classical Artificial Intelligence problems related to Knowledge Representation and Natural Language Processing.
+ARG@ENU invites applications for self-funded PhD research posts in the above area. Applications will be accepted all year round and further details can be found on the FindAPhD advert.</description>
+    </item>
+    
+  </channel>
+</rss>

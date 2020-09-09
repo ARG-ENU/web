@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on ARG@ENU</title>
+    <link>https://arg.napier.ac.uk/authors/</link>
+    <description>Recent content in Authors on ARG@ENU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://arg.napier.ac.uk/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr. Dana Khartabil</title>
+      <link>https://arg.napier.ac.uk/authors/dana-khartabil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arg.napier.ac.uk/authors/dana-khartabil/</guid>
+      <description>Dana was a Ph.D student funded under the fifty years of Edinburgh Napier scholarship scheme. Her research focussed on how to usefully visualise and consequently work with increasingly large argumentation datasets. Her research contributes to the Argument Cartography theme of the group.
+Dana successfully defended her Ph.D thesis entitiled &amp;ldquo;Visualisation Techniques to Facilitate Argument Exploration&amp;rdquo; on Friday 6th December 2019.</description>
+    </item>
+    
+    <item>
+      <title>Simon Wells</title>
+      <link>https://arg.napier.ac.uk/authors/simon-wells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arg.napier.ac.uk/authors/simon-wells/</guid>
+      <description>Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University. His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques.
+Generally, he is interested in how argumentation can be used to understand the world, resolve conflicts, and influence others. He maintains ARG@ENU and does Argumentation Research to develops argument-mining, dialogue management, and behaviour change tools.</description>
+    </item>
+    
+  </channel>
+</rss>

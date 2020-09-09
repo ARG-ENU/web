@@ -1,183 +1,246 @@
-baseurl = "http://arg.napier.ac.uk"
-languageCode = "en-us"
+######################## default configuration ####################
+baseURL = "https://arg.napier.ac.uk"
 title = "ARG@ENU"
-theme = "beautifulhugo"
-metaDataFormat = "yaml"
-pygmentsUseClasses = true
-pygmentCodeFences = true
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+#theme = "persian"
+languageName = "En"
+languageCode = "en-us"
+# post pagination
+paginate = "5"
+# disqus short name
+#disqusShortname = "" # get your shortname form here : https://disqus.com
+#disableKinds = ["taxonomy", "term"]
 
-[Params]
-  subtitle = "Argumentation Research @ Edinburgh Napier University"
-#  logo = "img/arg_icon_2.png"
-  favicon = "ico/favicon.ico"
-  dateFormat = "January 2, 2006"
-  commit = false
-  rss = true
-  comments = true
+############################# output ##############################
+[outputs]
+home = [ "HTML", "RSS", "json"]
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-[[Params.bigimg]]
-  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+# render unsafe html
+[markup.goldmark.renderer]
+unsafe = true
 
-[Author]
-  name = "Simon Wells"
-  email = "s.wells@napier.ac.uk"
-#  facebook = "username"
-#  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
-  github = "ARG-ENU"
-#  twitter = "username"
-#  reddit = "username"
-#  linkedin = "username"
-#  xing = "username"
-#  stackoverflow = "users/XXXXXXX/username"
-#  snapchat = "username"
-#  instagram = "username"
-#  youtube = "user/username" # or channel/channelname
-#  soundcloud = "username"
-#  spotify = "username"
-#  bandcamp = "username"
-#  itchio = "username"
+
+#[taxonomies]
+#category = "categories"
+#series = "series"
+#tag = "tags"
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+################################ menu ##################################
+#[[menu.main]]
+#name = "Home"
+#URL = "/"
+#weight = 1
+
+#[[menu.main]]
+#name = "About"
+#URL = "about"
+#weight = 2
+
+#[[menu.main]]
+#name = "Category"
+#URL = "categories/nature/"
+#weight = 3
+
+#[[menu.main]]
+#name = "Contact"
+#URL = "contact"
+#weight = 4
+
+#[[menu.main]]
+#name = "Privacy Policy"
+#URL = "privacy-policy"
+#weight = 5
 
 [[menu.main]]
-    name = "people"
-    url = "/page/people"
+name = "Projects"
+weight = 2
+
+    [[menu.main]]
+    parent = "Projects"
+    name = "Alias"
+    url = "/projects/alias/"
     weight = 1
 
     [[menu.main]]
-        parent = "people"
-        name = "Dr Simon Wells"
-        url = "/page/people/simon-wells/"
-        weight = 1
-
-    [[menu.main]]
-        parent = "people"
-        name = "Dana Khartabil"
-        url = "/page/people/dana-khartabil/"
-        weight = 2
-
-    [[menu.main]]
-        parent = "people"
-        name = "affiliate members"
-        url = "/page/people/affiliates/"
-        weight = 3
-
-    [[menu.main]]
-        parent = "people"
-        name = "past members"
-        url = "/page/people/past/"
-        weight = 4
-
-
-[[menu.main]]
-    identifier = "projects"
-    name = "Projects"
+    parent = "Projects"
+    name = "Argument Cartography"
+    url = "/projects/argument-cartography/"
     weight = 2
 
     [[menu.main]]
-        parent = "projects"
-        name = "Alias"
-        url = "/page/project/alias/"
-        weight = 1
-
-    [[menu.main]]
-        parent = "projects"
-        name = "Argument Cartography"
-        url = "/page/project/argument-cartography/"
-        weight = 2
-
-    [[menu.main]]
-        parent = "projects"
-        name = "ADAMANT"
-        url = "/page/project/adamant/"
-        weight = 3
-
-    [[menu.main]]
-        parent = "projects"
-        name = "ArgDB"
-        url = "/page/project/argdb/"
-        weight = 4
-
-    [[menu.main]]
-        parent = "projects"
-        name = "Canary"
-        url = "/page/project/canary/"
-        weight = 5
-
-    [[menu.main]]
-        parent = "projects"
-        name = "DGDL"
-        url = "/page/project/dgdl/"
-        weight = 6
-
-    [[menu.main]]
-        parent = "projects"
-        name = "OAPL"
-        url = "/page/project/oapl/"
-        weight = 7
-
-    [[menu.main]]
-        parent = "projects"
-        name = "SADFace"
-        url = "/page/project/sadface/"
-        weight = 8
-
-    [[menu.main]]
-        parent = "projects"
-        name = "MonkeyPuzzle"
-        url = "/page/project/monkeypuzzle/"
-        weight = 9
-
-[[menu.main]]
-    name = "outputs"
-    url = "/page/outputs/"
+    parent = "Projects"
+    name = "ADAMANT"
+    url = "/projects/adamant/"
     weight = 3
 
     [[menu.main]]
-        parent = "outputs"
-        name = "Publications"
-        url = "/page/outputs/publications/"
-        weight = 1
-
-    [[menu.main]]
-        parent = "outputs"
-        name = "datasets"
-        url = "/page/outputs/datasets/"
-        weight = 2
-
-[[menu.main]]
-    name = "admin"
-    url = "/page/admin/"
+    parent = "Projects"
+    name = "ArgDB"
+    url = "/projects/argdb/"
     weight = 4
 
     [[menu.main]]
-        parent = "admin"
-        name = "working with us"
-        url = "/page/admin/collaboration/"
-        weight = 1
+    parent = "Projects"
+    name = "Canary"
+    url = "/projects/canary/"
+    weight = 5
 
     [[menu.main]]
-        parent = "admin"
-        name = "travel"
-        url = "/page/admin/travel/"
-        weight = 2
+    parent = "Projects"
+    name = "DGDL"
+    url = "/projects/dgdl/"
+    weight = 6
 
     [[menu.main]]
-        parent = "admin"
-        name = "vacancies"
-        url = "/page/admin/vacancies/"
-        weight = 3
+    parent = "Projects"
+    name = "OAPL"
+    url = "/projects/oapl/"
+    weight = 7
 
     [[menu.main]]
-        parent = "admin"
-        name = "student projects"
-        url = "/page/admin/studentprojects/"
-        weight = 4
+    parent = "Projects"
+    name = "SADFace"
+    url = "/projects/sadface/"
+    weight = 8
 
+    [[menu.main]]
+    parent = "Projects"
+    name = "MonkeyPuzzle"
+    url = "/projects/monkeypuzzle/"
+    weight = 9
+
+
+[[menu.main]]
+name = "outputs"
+weight = 3
+
+    [[menu.main]]
+    parent = "outputs"
+    name = "Publications"
+    url = "/outputs/publications/"
+    weight = 1
+
+    [[menu.main]]
+    parent = "outputs"
+    name = "datasets"
+    url = "/outputs/datasets/"
+    weight = 2
+
+[[menu.main]]
+name = "People"
+weight = 4
+
+    [[menu.main]]
+    parent = "People"
+    name = "Dr Simon Wells"
+    url = "authors/simon-wells/"
+    weight = 1
+
+    [[menu.main]]
+    parent = "People"
+    name = "affiliate members"
+    url = "/people/affiliates/"
+    weight = 2
+
+    [[menu.main]]
+    parent = "People"
+    name = "past members"
+    url = "/people/past/"
+    weight = 3
+
+[[menu.main]]
+name = "admin"
+weight = 5
+
+    [[menu.main]]
+    parent = "admin"
+    name = "Working with Us"
+    url = "admin/collaboration"
+    weight = 1
+
+    [[menu.main]]
+    parent = "admin"
+    name = "Travel"
+    url = "/admin/travel"
+    weight = 2
+
+    [[menu.main]]
+    parent = "admin"
+    name = "Vacancies"
+    url = "/admin/vacancies"
+    weight = 3
+
+    [[menu.main]]
+    parent = "admin"
+    name = "Student Projects"
+    url = "/admin/studentprojects"
+    weight = 4
+
+
+
+
+
+#################### default parameters ################################
+[params]
+#logo = "images/arg_logo.png"
+# Meta data
+description = "This is meta description"
+author = "Simon Wells"
+# search  
+search = true
+# contact form action
+#contact_form_action = "#" # contact form works with https://formspree.io
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+#tags = ["analysis", "cmna", "datastores", "mining", "phd", "talks", "workshop"]
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+
+############################# social site ########################
+#[[params.social]]
+#title = "facebook"
+#icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+#link = "#"
+
+#[[params.social]]
+#title = "twitter"
+#icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+#link = "#"
+
+#[[params.social]]
+#title = "instagram"
+#icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+#link = "#"
+
+#[[params.social]]
+#title = "github"
+#icon = "ti-github" # themify icon : https://themify.me/themify-icons
+#link = "#"
+
+#[[params.social]]
+#title = "linkedin"
+#icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+#link = "#"
