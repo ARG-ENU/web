@@ -46,7 +46,7 @@
   <div class="container-fluid">
     
     <nav class="navbar navbar-expand-lg navbar-light">
-      <a class="navbar-brand" href="/">
+      <a class="navbar-brand" href="http://arg.napier.ac.uk/">
         
         ARG@ENU
         
@@ -149,7 +149,7 @@
         <div class="search px-4">
           <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
           <div class="search-wrapper">
-            <form action="/search" class="h-100">
+            <form action="http://arg.napier.ac.uk/search" class="h-100">
               <input class="search-box pl-4" id="search-query" name="s" type="search" placeholder="Type and hit enter...">
             </form>
             <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
@@ -193,7 +193,7 @@
 <li>Canary is a new Python library for Argument Mining. Depending upon your degree programme, projects will involve either extending canary with the addition of new algorithms then evaluating &amp; benchmarking them, or else developing new features for the library.</li>
 <li>PickAxe is a project that aims to provide a search interface for arguments. Projects related to this topic involve prototyping search-oriented user interfaces and APIS to argumentative data.</li>
 <li>StripMine is a project to develop a pipeline of argument mining tools that can be pointed towards a given resource, e.g. a database, dataset, the web, common crawl, and which will extract structured argument data and store it in a database for reuse. Stripmine builds on other projects, for eaxmple, using algorithms from Canary, and user interfaces from PickAxe, together with off-the-shelf software to provide an end-to-end argument mining solution.</li>
-<li>Developing an algorithm to automatically detect periodic sentences, classify them as argument or non-argument, and convert them into argumentation structures that are saved using the <a href="/page/project/sadface">SADFace</a> format (developed at ENU). NB. Periodic sentences often encapsulate an entire argument, including premises and conclusion, into a single sentence, e.g. &ldquo;The beach, with white sand, crystal clear water, and palm trees, is a favorite hangout for the locals.&rdquo; but they are problematic because they may have various forms, and sometimes the same form can express an argument and at other times the sentence does not contain an argument.</li>
+<li>Developing an algorithm to automatically detect periodic sentences, classify them as argument or non-argument, and convert them into argumentation structures that are saved using the <a href="http://arg.napier.ac.uk/page/project/sadface">SADFace</a> format (developed at ENU). NB. Periodic sentences often encapsulate an entire argument, including premises and conclusion, into a single sentence, e.g. &ldquo;The beach, with white sand, crystal clear water, and palm trees, is a favorite hangout for the locals.&rdquo; but they are problematic because they may have various forms, and sometimes the same form can express an argument and at other times the sentence does not contain an argument.</li>
 <li>Developing an algorithm to automatically detect overlaps between SADFace arguments. For example, two statements might express the same idea, but be presented in different ways. The aim of this project is to identify those instances so that these arguments can be combined.</li>
 <li>Integrate argument mining functionality into the <a href="http://arg.napier.ac.uk/monkeypuzzle">Monkeypuzzle</a> (see above under &ldquo;Manual Argument Analysis&rdquo;) tool. This way we can begin the process of moving from completely manual analysis, towards semi-automated, and eventually perhaps, completely automated operation.</li>
 </ul>
@@ -211,10 +211,10 @@
 <ul>
 <li>The Argument Database (ArgDB) is a project that aims to provide a datastore, web interface, and API for analysed arguments represented using the SADFace format. The goal is for instances of ArgDB to be flexibly deployed on servers, and personal computers, in both public and private instances, and with full support for managing and federating argument data between instances. Projects in this area will involve designing, implementing, testing, and evaluating extensions to the ArgDB.</li>
 <li>Building an integrated dataset collection tool to support the RADAR (Reproducible Approach to Datasets for Argumentation Research) methodology. This could be a web or desktop based tool which supports and enables the user to construct their argumentative datasets according to the principles of the RADAR methodology.</li>
-<li>Projects in this theme will generally involve the design and construction of a web site that engages, and perhaps argues, with people with the aim of eliciting arguments and opinions that can be stored in our database of arguments, the <a href="/page/project/argdb">ArgDB</a></li>
+<li>Projects in this theme will generally involve the design and construction of a web site that engages, and perhaps argues, with people with the aim of eliciting arguments and opinions that can be stored in our database of arguments, the <a href="http://arg.napier.ac.uk/page/project/argdb">ArgDB</a></li>
 </ul>
 <h2 id="abstract-argumentation">Abstract Argumentation</h2>
-<p>The computational approach to argumentation, often referred to as &ldquo;abstract&rdquo; or &ldquo;formal&rdquo; argumentation, studies how argumentative structure can be used to reason about knowledge, primarily in artificially intelligent software systems. <a href="/page/project/alias">ALIAS</a> (A Library for Implmenting Argumentation Systems) is an open-source Python library that has been developed to support abstract argumentation. The current version of ALIAS is approaching maturity, it works reasonably well and is easy to get started with but there is plenty of room for improvement in terms of performance. The library is currently reasonably performant on reasonably sized argumentation frameworks but this could be improved, both in terms of the size of frameworks that can be handled but also in terms of the time and space complexity of the solution (essentially the amount of memory consumed and the time take to reach a solution). There are a number of approaches that could be taken for a project in this area, for example:</p>
+<p>The computational approach to argumentation, often referred to as &ldquo;abstract&rdquo; or &ldquo;formal&rdquo; argumentation, studies how argumentative structure can be used to reason about knowledge, primarily in artificially intelligent software systems. <a href="http://arg.napier.ac.uk/page/project/alias">ALIAS</a> (A Library for Implmenting Argumentation Systems) is an open-source Python library that has been developed to support abstract argumentation. The current version of ALIAS is approaching maturity, it works reasonably well and is easy to get started with but there is plenty of room for improvement in terms of performance. The library is currently reasonably performant on reasonably sized argumentation frameworks but this could be improved, both in terms of the size of frameworks that can be handled but also in terms of the time and space complexity of the solution (essentially the amount of memory consumed and the time take to reach a solution). There are a number of approaches that could be taken for a project in this area, for example:</p>
 <ul>
 <li>Investigate the use of solvers to calulate solutions. For example, some preliminary work using the Z3 solver has looked promising, and there is research in the literature on cutting edge SAT,SMT, &amp; Constraint based solutions.</li>
 <li>Investigate the use of GPU programming as a method for improving performance.</li>
