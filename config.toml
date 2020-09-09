@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://arg.napier.ac.uk"
+baseURL = "http://arg.napier.ac.uk"
 title = "ARG@ENU"
 #theme = "persian"
 languageName = "En"
