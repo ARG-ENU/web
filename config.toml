@@ -113,7 +113,7 @@ weight = 2
 
     [[menu.main]]
     parent = "Projects"
-    name = "OAPL"
+    name = "OAPl"
     url = "/projects/oapl/"
     weight = 7
 
