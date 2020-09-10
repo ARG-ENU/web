@@ -6,10 +6,19 @@
     <description>Recent content on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://arg.napier.ac.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing The Open Argumentation Platform (OAPL)</title>
+      <link>http://arg.napier.ac.uk/posts/2020.09.09_comma.demo/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/posts/2020.09.09_comma.demo/</guid>
+      <description>Today Simon gave a demo at COMMAN 2020 on the subject of &amp;ldquo;The Open Argumentation PLatform (OAPL)&amp;rdquo; in which he talked the various pieces of software (some more mature, some more exploratory and prototypical) which form the inital trance of contributions to a nascent Open Platoform for Argumentation Software. Part of the aim is to facilitate the development of lots of argumentation software, partly it is to encourage different pieces of software to be able to be composed into more functional workflows, and partly to serve as a clearing house for software, so that we can become more aware of what is available.</description>
+    </item>
     
     <item>
       <title>Presentation @ CMNA&#39;20</title>
@@ -18,7 +27,7 @@
       
       <guid>http://arg.napier.ac.uk/posts/2020.09.08_cmna.presentation/</guid>
       <description>Today Simon gave a presentation to CMNA&#39;20 on the subject of &amp;ldquo;Datastores for Argumentation Data&amp;rdquo; in which he talked about SADFace &amp;amp; the ArgDB as a way to store and manipulate argumentative datasets. MonkeyPuzzle was described as a method for eliciting argument data through manual analysis to form an argument analysis pipelein
-I&amp;rsquo;m delighted to let everyone know that the 20th edition of the Workshop on Computational Models of Natural Argument will be hosted as part of the COMMA 2020 conference this year.</description>
+The following links will take you directly to the project pages for each of the three software tools that I talked about today:</description>
     </item>
     
     <item>
