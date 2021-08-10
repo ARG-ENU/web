@@ -6,10 +6,20 @@
     <description>Recent content in Posts on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://arg.napier.ac.uk/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Paper in Computer Graphics Forum</title>
+      <link>http://arg.napier.ac.uk/posts/2021.08.10_visualising.arguments/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/posts/2021.08.10_visualising.arguments/</guid>
+      <description>We recently published a new research paper, entitled &amp;ldquo;Design and Evaluation of Visualisation Techniques to Facilitate Argument Exploration&amp;rdquo;, in the Computer Graphics Forum. It&amp;rsquo;s currently an Early View online version of record before it is included in an issue so citation information is not currently complete.
+A &amp;ldquo;story of the paper&amp;rdquo; and demonstration page will follow shortly.</description>
+    </item>
     
     <item>
       <title>Dana&#39;s Ph.D Thesis Published</title>
