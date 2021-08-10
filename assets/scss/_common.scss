@@ -33,9 +33,14 @@ a {
 }
 
 a,
-a:hover,
+/*a:hover,*/
 a:focus {
   text-decoration: none;
+}
+
+a:hover {
+    background: lighten($color: $primary-color, $amount: 75);
+
 }
 
 a,
