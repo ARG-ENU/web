@@ -18,9 +18,10 @@ A free (GPL), open-source, web-based (HTML5, CSS, Javascript) argument analysis 
 ![](/images/monkeypuzzle.png)
 
 
-There is an ARG@ENU hosted instance:
+There are now several, free, hosted instances of MonkeyPuzzle:
 
-* [http://arg.napier.ac.uk/monkeypuzzle/](http://arg.napier.ac.uk/monkeypuzzle/)
+* [Edinburhj Napier (Arg@ENU) hosted](http://arg.napier.ac.uk/monkeypuzzle/)
+* [Open Argumentation Platform (OAPl) hosted](https://open-argumentation.github.io/MonkeyPuzzle/index.html)
 
     
 However you can also download Monkeypuzzle and run it from your local file system or from your own web-server. Deployment is primarily via one of the following three modes:
@@ -29,7 +30,7 @@ However you can also download Monkeypuzzle and run it from your local file syste
 * As a local, non-server based single-page web-app
 * As a browser-hosted, offline app
 
-The source code for MonkeyPuzzle (web) is available from the [project repository](https://github.com/ARG-ENU/monkeypuzzle_web) which also hosts the [issue-tracker](https://github.com/ARG-ENU/monkeypuzzle_web/issues) to support ongoing developement & bugfixing.  
+The source code for MonkeyPuzzle (web) is available from the [project repository](https://github.com/Open-Argumentation/MonkeyPuzzle) which also hosts the [issue-tracker](https://github.com/Open-Argumentation/MonkeyPuzzle/issues) to support ongoing developement & bugfixing.  
 
 # Monkeypuzzle (Desktop)
 
@@ -40,3 +41,4 @@ As a result, Araucaria was adopted under it's GPL license, the code was added to
 ![](/images/araucaria.png)
 
 The source code for MonkeyPuzzle (desktop) is available from the [project repository](https://github.com/ARG-ENU/monkeypuzzle_desktop) which also hosts the [issue-tracker](https://github.com/ARG-ENU/monkeypuzzle_desktop/issues) to support ongoing developement & bugfixing.
+
