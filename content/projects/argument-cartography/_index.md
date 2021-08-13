@@ -12,3 +12,9 @@ In parallel, a recent topic in argumentation that has been the subject of intens
 
 The goal of argument cartography is to track the development of increasingly large-scale argument datasets and to develop suitable techniques for argument visualisation and exploration at scale.
 
+# Publications
+
+* D. Khartabil, C. Collins, S. Wells, B. Back, J. Kennedy (2021) "[Design and Evaluation of Visualization Techniques to Facilitate Argument Exploration](http://www.simonwells.org/publications/#khartabil_2021_cgf)"
+* D. Khartabil & S. Wells (2017) "[Mapping Increasingly Large Networks of Argumentative Inferences](http://www.simonwells.org/publications/#khartabil_2017_diagramming)"
+* D. Khartabil, S. Wells, & J. Kennedy (2016) "[Large-scale Argument Visualization (LSAV)](http://www.simonwells.org/publications/#khartabil_2016_euroviz)"
+
