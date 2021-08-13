@@ -30,7 +30,7 @@ Feel free to clone or fork the project. Please issue a pull request if you have 
 
 The development plan is managed through GitHub repos.
 
-* [GitHub Issues](https://github.com/ARG-ENU/alias/issues)
+* [GitHub Issues](https://github.com/Open-Argumentation/ALIAS/issues)
 
 # Publications
 
