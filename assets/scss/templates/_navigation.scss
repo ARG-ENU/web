@@ -7,6 +7,7 @@
   color: $text-color-dark;
   text-transform: capitalize;
   font-size: 18px;
+  text-decoration: none;
 
   &:hover {
     color: $primary-color;
@@ -19,6 +20,7 @@
 
     .nav-link {
       padding: 15px 25px;
+      text-decoration: none;
     }
   }
 
@@ -29,6 +31,7 @@
     border-radius: 0;
     border-color: $border-color;
     text-align: center;
+    text-decoration: none;
 
     .dropdown-item {
       color: $text-color;
@@ -40,6 +43,14 @@
       }
     }
   }
+}
+
+.dropdown-item {
+    text-decoration: none;
+}
+
+.navbar-brand {
+    text-decoration: none;
 }
 
 
