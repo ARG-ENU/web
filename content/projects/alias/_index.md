@@ -34,4 +34,4 @@ The development plan is managed through GitHub repos.
 
 # Publications
 
-* [Wells & La Greca (2015) "Introducing ALIAS"](/page/outputs/publications/#wells_2015_alias) 
+* [Wells & La Greca (2015) "Introducing ALIAS"](https://www.simonwells.org/publications/#wells_2015_alias) 
