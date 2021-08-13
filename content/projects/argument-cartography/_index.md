@@ -13,7 +13,7 @@ In parallel, a recent topic in argumentation that has been the subject of intens
 The goal of argument cartography is to track the development of increasingly large-scale argument datasets and to develop suitable techniques for argument visualisation and exploration at scale.
 
 
-Dana has worked on a range of visualisations that target the problem of "visualisation at scale", some of which can be seen here:
+[Dana](/authors/dana-khartabil) has worked on a range of visualisations that target the problem of "visualisation at scale", some of which can be seen here:
 
 ![stuff](/images/cgf-example.png "stuff")
 
