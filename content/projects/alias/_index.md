@@ -22,7 +22,7 @@ and the following labellings:
 
 The complete sourcecode for ALIAS is available from the project's Git repository:
 
-* [ALIAS](https://github.com/ARG-ENU/alias)
+* [ALIAS](https://github.com/Open-Argumentation/ALIAS)
 
 Feel free to clone or fork the project. Please issue a pull request if you have enhancements or bug fixes to contribute upstream.
 
