@@ -6,10 +6,19 @@
     <description>Recent content on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://arg.napier.ac.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EUROVIS Presentation</title>
+      <link>http://arg.napier.ac.uk/posts/2022.07.01_eurovis/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/posts/2022.07.01_eurovis/</guid>
+      <description>Our research paper, &amp;ldquo;Design and Evaluation of Visualisation Techniques to Facilitate Argument Exploration&amp;rdquo; was recently presented by co-author Benjamin Bach at the EuroVis 2022 conference in Rome. A recording of the presentation can be seen at this YouTube link.</description>
+    </item>
     
     <item>
       <title>New Paper in Computer Graphics Forum</title>
