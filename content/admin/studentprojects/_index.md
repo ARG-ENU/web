@@ -60,6 +60,13 @@ The computational approach to argumentation, often referred to as "abstract" or 
 
 * Investigate the use of solvers to calulate solutions. For example, some preliminary work using the Z3 solver has looked promising, and there is research in the literature on cutting edge SAT,SMT, & Constraint based solutions.
 * Investigate the use of GPU programming as a method for improving performance.
-* Adopt another technique from the literature that hasn't yet been incorporated into ALIAS.
+* Adopt another technique from the literature that hasn't yet been incorporated into ALIAS - Projects in this area will likely follow a similar pattern of identifying a technique that might lead to an improvement, prototpying a solution, evaluating your solution against the existing ALIAS library & also against other tools submitted to the [ICCMA](http://argumentationcompetition.org) (International Competition on Computational Models of Argumentation).
 
-Projects in this area will likely follow a similar pattern of identifying a technique that might lead to an improvement, prototpying a solution, evaluating your solution against the existing ALIAS library & also against other tools submitted to the [ICCMA](http://argumentationcompetition.org) (International Competition on Computational Models of Argumentation).
+## Argumentation & Dialogue Competition Entries
+
+There are a number of competitions and shared tasks in the argumentation and dialogue research area. Students will select a challenge from either of the following:
+
+* [ICCMA](http://argumentationcompetition.org) (International Competition on Computational Models of Argumentation)
+* [Touche](https://touche.webis.de/)
+
+Then you will produce your own entry that addresses the competition challenge or task. Entry into the competition isn't the main goal here, rather you should use the scenario as a starting place for your project. That said, should things work out nicely, and we feel that we'd have a competitive entry, then I would be supportive of also taking part, however the priorty is using the competitions and shared tasks as a starting place for building your own unique solution.
