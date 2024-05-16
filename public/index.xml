@@ -18,6 +18,17 @@ It looks like there will be a packed day of talks from all over Scotland; Aberde
     </item>
     
     <item>
+      <title>Presentation at the 2024 Scottish Argumentation Day</title>
+      <link>http://arg.napier.ac.uk/posts/2024.05.16_scottish-argumentation-day-presentation/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/posts/2024.05.16_scottish-argumentation-day-presentation/</guid>
+      <description>For this years Scottish Argumentation Day I plan to present some exciting developments regarding the Open Argumentation Platform. The talk is titled &amp;ldquo;Platforms for Supporting Argumentation Research&amp;rdquo;.
+The platform is a set of permissively licensed (GPL3) free software tools, libraries, APIs and interfaces [Wells (2020b)]. The core components comprise: Argument description, storage, manual analysis, computation, dialogue, and mining functionalities. All components aim to have the following:
+ A simple and consistent but extensible underlying data model.</description>
+    </item>
+    
+    <item>
       <title>EUROVIS Presentation</title>
       <link>http://arg.napier.ac.uk/posts/2022.07.01_eurovis/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
