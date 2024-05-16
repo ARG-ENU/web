@@ -5,10 +5,6 @@
     <link>http://arg.napier.ac.uk/people/affiliates/</link>
     <description>Recent content in Affiliate Members on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://arg.napier.ac.uk/people/affiliates/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://arg.napier.ac.uk/people/affiliates/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

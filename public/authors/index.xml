@@ -5,11 +5,7 @@
     <link>http://arg.napier.ac.uk/authors/</link>
     <description>Recent content in Authors on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://arg.napier.ac.uk/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://arg.napier.ac.uk/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. Dana Khartabil</title>
       <link>http://arg.napier.ac.uk/authors/dana-khartabil/</link>

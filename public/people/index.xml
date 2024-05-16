@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peoples on ARG@ENU</title>
+    <title>People on ARG@ENU</title>
     <link>http://arg.napier.ac.uk/people/</link>
-    <description>Recent content in Peoples on ARG@ENU</description>
+    <description>Recent content in People on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://arg.napier.ac.uk/people/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://arg.napier.ac.uk/people/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -6,10 +6,16 @@
     <description>Recent content in Posts on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://arg.napier.ac.uk/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://arg.napier.ac.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 Scottish Argumentation Day</title>
+      <link>http://arg.napier.ac.uk/posts/2024.05.16_scottish-argumentation-day/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/posts/2024.05.16_scottish-argumentation-day/</guid>
+      <description>After a hiatus of several years, there will be a 2024 Scottish Argumentation Day hosted by our friends in the CHAI lab at the University of Edinburgh.
+It looks like there will be a packed day of talks from all over Scotland; Aberdeen, RGU, Dundee, St Andrews, Napier, and Edinburgh, as well as from further afield (University of Lincoln). This should be a great opportunitiy to get a really good understanding of the breadth of work being carried out in the &amp;ldquo;Scottish School of Argumentation&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>EUROVIS Presentation</title>

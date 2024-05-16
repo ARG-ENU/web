@@ -5,10 +5,6 @@
     <link>http://arg.napier.ac.uk/projects/monkeypuzzle/quickstart/</link>
     <description>Recent content in MonkeyPuzzle on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://arg.napier.ac.uk/projects/monkeypuzzle/quickstart/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://arg.napier.ac.uk/projects/monkeypuzzle/quickstart/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
