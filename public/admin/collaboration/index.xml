@@ -4,7 +4,8 @@
     <title>Working With Us on ARG@ENU</title>
     <link>http://arg.napier.ac.uk/admin/collaboration/</link>
     <description>Recent content in Working With Us on ARG@ENU</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://arg.napier.ac.uk/admin/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://arg.napier.ac.uk/admin/collaboration/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

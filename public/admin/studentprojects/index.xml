@@ -4,7 +4,8 @@
     <title>Student Projects on ARG@ENU</title>
     <link>http://arg.napier.ac.uk/admin/studentprojects/</link>
     <description>Recent content in Student Projects on ARG@ENU</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://arg.napier.ac.uk/admin/studentprojects/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://arg.napier.ac.uk/admin/studentprojects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

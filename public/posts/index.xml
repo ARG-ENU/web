@@ -4,232 +4,177 @@
     <title>Posts on ARG@ENU</title>
     <link>http://arg.napier.ac.uk/posts/</link>
     <description>Recent content in Posts on ARG@ENU</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://arg.napier.ac.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://arg.napier.ac.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational Models of Natural Argument Workshop (CMNA&#39;24)</title>
+      <link>http://arg.napier.ac.uk/posts/2024.08.12_cmna/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://arg.napier.ac.uk/posts/2024.08.12_cmna/</guid>
+      <description>I&amp;rsquo;m delighted to let everyone know that the 24th edition of the Workshop on Computational Models of Natural Argument will be hosted as part of the COMMA 2024 conference this year.&#xA;The call for papers is now live. The Workshop website is live: https://cmna-workshop.github.io/cmna24 </description>
+    </item>
     <item>
       <title>2024 Scottish Argumentation Day</title>
       <link>http://arg.napier.ac.uk/posts/2024.05.16_scottish-argumentation-day/</link>
       <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2024.05.16_scottish-argumentation-day/</guid>
-      <description>After a hiatus of several years, there will be a 2024 Scottish Argumentation Day hosted by our friends in the CHAI lab at the University of Edinburgh.
-It looks like there will be a packed day of talks from all over Scotland; Aberdeen, RGU, Dundee, St Andrews, Napier, and Edinburgh, as well as from further afield (University of Lincoln). This should be a great opportunitiy to get a really good understanding of the breadth of work being carried out in the &amp;ldquo;Scottish School of Argumentation&amp;rdquo;.</description>
+      <description>After a hiatus of several years, there will be a 2024 Scottish Argumentation Day hosted by our friends in the CHAI lab at the University of Edinburgh.&#xA;It looks like there will be a packed day of talks from all over Scotland; Aberdeen, RGU, Dundee, St Andrews, Napier, and Edinburgh, as well as from further afield (University of Lincoln). This should be a great opportunitiy to get a really good understanding of the breadth of work being carried out in the &amp;ldquo;Scottish School of Argumentation&amp;rdquo;.</description>
     </item>
-    
     <item>
       <title>Presentation at the 2024 Scottish Argumentation Day</title>
       <link>http://arg.napier.ac.uk/posts/2024.05.16_scottish-argumentation-day-presentation/</link>
       <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2024.05.16_scottish-argumentation-day-presentation/</guid>
-      <description>For this years Scottish Argumentation Day I plan to present some exciting developments regarding the Open Argumentation Platform. The talk is titled &amp;ldquo;Platforms for Supporting Argumentation Research&amp;rdquo;.
-The platform is a set of permissively licensed (GPL3) free software tools, libraries, APIs and interfaces [Wells (2020b)]. The core components comprise: Argument description, storage, manual analysis, computation, dialogue, and mining functionalities. All components aim to have the following:
- A simple and consistent but extensible underlying data model.</description>
+      <description>For this years Scottish Argumentation Day I plan to present some exciting developments regarding the Open Argumentation Platform. The talk is titled &amp;ldquo;Platforms for Supporting Argumentation Research&amp;rdquo;.&#xA;The platform is a set of permissively licensed (GPL3) free software tools, libraries, APIs and interfaces [Wells (2020b)]. The core components comprise: Argument description, storage, manual analysis, computation, dialogue, and mining functionalities. All components aim to have the following:&#xA;A simple and consistent but extensible underlying data model.</description>
     </item>
-    
     <item>
       <title>EUROVIS Presentation</title>
       <link>http://arg.napier.ac.uk/posts/2022.07.01_eurovis/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2022.07.01_eurovis/</guid>
       <description>Our research paper, &amp;ldquo;Design and Evaluation of Visualisation Techniques to Facilitate Argument Exploration&amp;rdquo; was recently presented by co-author Benjamin Bach at the EuroVis 2022 conference in Rome. A recording of the presentation can be seen at this YouTube link.</description>
     </item>
-    
     <item>
       <title>New Paper in Computer Graphics Forum</title>
       <link>http://arg.napier.ac.uk/posts/2021.08.10_visualising.arguments/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2021.08.10_visualising.arguments/</guid>
-      <description>We recently published a new research paper, entitled &amp;ldquo;Design and Evaluation of Visualisation Techniques to Facilitate Argument Exploration&amp;rdquo;, in the Computer Graphics Forum. It&amp;rsquo;s currently an Early View online version of record before it is included in an issue so citation information is not currently complete.
-A &amp;ldquo;story of the paper&amp;rdquo; and demonstration page will follow shortly.</description>
+      <description>We recently published a new research paper, entitled &amp;ldquo;Design and Evaluation of Visualisation Techniques to Facilitate Argument Exploration&amp;rdquo;, in the Computer Graphics Forum. It&amp;rsquo;s currently an Early View online version of record before it is included in an issue so citation information is not currently complete.&#xA;A &amp;ldquo;story of the paper&amp;rdquo; and demonstration page will follow shortly.</description>
     </item>
-    
     <item>
       <title>Dana&#39;s Ph.D Thesis Published</title>
       <link>http://arg.napier.ac.uk/posts/2020.11.10_dana-thesis/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2020.11.10_dana-thesis/</guid>
-      <description>Today Dana&amp;rsquo;s Ph.D Theisis entitled &amp;ldquo;Visualisation techniques to facilitate argument exploration&amp;rdquo; was published to the Napier research archive. This is the abstract:
- Visualisation is a graphical representation that is used to aid understanding and gain insight into information. Similarly, visualising arguments can help people to explore argument structure and comprehend knowledge associated with tough problems.  In this thesis, we focus on representing arguments, especially when data size increase, which causes difficulty in exploring and understanding arguments.</description>
+      <description>Today Dana&amp;rsquo;s Ph.D Theisis entitled &amp;ldquo;Visualisation techniques to facilitate argument exploration&amp;rdquo; was published to the Napier research archive. This is the abstract:&#xA;Visualisation is a graphical representation that is used to aid understanding and gain insight into information. Similarly, visualising arguments can help people to explore argument structure and comprehend knowledge associated with tough problems. In this thesis, we focus on representing arguments, especially when data size increase, which causes difficulty in exploring and understanding arguments.</description>
     </item>
-    
     <item>
       <title>Introducing The Open Argumentation Platform (OAPl)</title>
       <link>http://arg.napier.ac.uk/posts/2020.09.09_comma.demo/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2020.09.09_comma.demo/</guid>
       <description>Today Simon gave a demo at COMMA 2020 on the subject of &amp;ldquo;The Open Argumentation PLatform (OAPl)&amp;rdquo; in which he talked about the various pieces of software (some more mature, some more exploratory and prototypical) which form the inital tranch of contributions to a nascent Open Platform for Argumentation Software. Part of the aim is to facilitate the development of lots of argumentation software, partly it is to encourage different pieces of software to be able to be composed into more functional workflows, and partly to serve as a clearing house for software, so that we can become more aware of what is available.</description>
     </item>
-    
     <item>
       <title>Presentation @ CMNA&#39;20</title>
       <link>http://arg.napier.ac.uk/posts/2020.09.08_cmna.presentation/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2020.09.08_cmna.presentation/</guid>
-      <description>Today Simon gave a presentation to CMNA&#39;20 on the subject of &amp;ldquo;Datastores for Argumentation Data&amp;rdquo; in which he talked about SADFace &amp;amp; the ArgDB as a way to store and manipulate argumentative datasets. MonkeyPuzzle was described as a method for eliciting argument data through manual analysis to form an argument analysis pipeline.
-The following links will take you directly to the project pages for each of the three software tools that I talked about today:</description>
+      <description>Today Simon gave a presentation to CMNA&#39;20 on the subject of &amp;ldquo;Datastores for Argumentation Data&amp;rdquo; in which he talked about SADFace &amp;amp; the ArgDB as a way to store and manipulate argumentative datasets. MonkeyPuzzle was described as a method for eliciting argument data through manual analysis to form an argument analysis pipeline.&#xA;The following links will take you directly to the project pages for each of the three software tools that I talked about today:</description>
     </item>
-    
     <item>
       <title>Computational Models of Natural Argument Workshop (CMNA&#39;20)</title>
       <link>http://arg.napier.ac.uk/posts/2020.03.02_cmna/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2020.03.02_cmna/</guid>
-      <description>I&amp;rsquo;m delighted to let everyone know that the 20th edition of the Workshop on Computational Models of Natural Argument will be hosted as part of the COMMA 2020 conference this year.
- The first call for papers is out now: cfp.pdf The Workshop website is live: http://www.cmna.info/CMNA20/  </description>
+      <description>I&amp;rsquo;m delighted to let everyone know that the 20th edition of the Workshop on Computational Models of Natural Argument will be hosted as part of the COMMA 2020 conference this year.&#xA;The first call for papers is out now: cfp.pdf The Workshop website is live: http://www.cmna.info/CMNA20/ </description>
     </item>
-    
     <item>
       <title>Dr Dana Khartabil</title>
       <link>http://arg.napier.ac.uk/posts/2019.12.06_dr.dana.khartabil/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2019.12.06_dr.dana.khartabil/</guid>
-      <description>Some good news to round out the week. I’m delighted to announce that my Ph.D student, Dana Khartabil, successfully made a defence of her PhD thesis, &amp;ldquo;Visualisation Techniques to Facilitate Argument Exploration&amp;rdquo;, this morning and will be awarded her PhD subject to minor corrections.
-Thank you to Professor Emma Hart in the twin roles of both panel and viva chair. Thanks also to Professor Jon Kerridge, who served as internal examiner.</description>
+      <description>Some good news to round out the week. I’m delighted to announce that my Ph.D student, Dana Khartabil, successfully made a defence of her PhD thesis, &amp;ldquo;Visualisation Techniques to Facilitate Argument Exploration&amp;rdquo;, this morning and will be awarded her PhD subject to minor corrections.&#xA;Thank you to Professor Emma Hart in the twin roles of both panel and viva chair. Thanks also to Professor Jon Kerridge, who served as internal examiner.</description>
     </item>
-    
     <item>
       <title>Self Funded Ph.D Research Posts in Argument Mining</title>
       <link>http://arg.napier.ac.uk/posts/2019.06.13_phdadvert/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2019.06.13_phdadvert/</guid>
-      <description>Argument Mining, the process of detecting, reconstructing, and extracting argument structure from natural language sources has become a hot topic in Argumentation research in recent years. This is a challenging, multi-disciplinary arena whose questions go to the heart of classical Artificial Intelligence problems related to Knowledge Representation and Natural Language Processing.
-ARG@ENU invites applications for self-funded PhD research posts in the above area. Applications will be accepted all year round and further details can be found on the FindAPhD advert.</description>
+      <description>Argument Mining, the process of detecting, reconstructing, and extracting argument structure from natural language sources has become a hot topic in Argumentation research in recent years. This is a challenging, multi-disciplinary arena whose questions go to the heart of classical Artificial Intelligence problems related to Knowledge Representation and Natural Language Processing.&#xA;ARG@ENU invites applications for self-funded PhD research posts in the above area. Applications will be accepted all year round and further details can be found on the FindAPhD advert.</description>
     </item>
-    
     <item>
       <title>CMNA 19 Proceedings Published</title>
       <link>http://arg.napier.ac.uk/posts/2019.04.29_cmna.proceedings/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2019.04.29_cmna.proceedings/</guid>
       <description>The proceedings for the recent Computational Models of Natural Argument workshop are now available as volume #2346 at the CEUR Archive.</description>
     </item>
-    
     <item>
       <title>Computational Models of Natural Argument Workshop (CMNA&#39;19)</title>
       <link>http://arg.napier.ac.uk/posts/2019.01.09_cmna/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2019.01.09_cmna/</guid>
       <description>I&amp;rsquo;m delighted to let everyone know that the 19th edition of the Workshop on Computational Models of Natural Argument will be hosted as part of the PERSUASIVE conference this year. Dr Wells, along with Jodi Schneider of the University of Illinois at Urbana-Champaign, is one of the new members of the steering committee and joins long-standing committee members, Floriana Grasso of the University of Liverpool and Nancy Green of the University of North Carolina Greensboro.</description>
     </item>
-    
     <item>
       <title>Workshop on Intelligent Machines &amp; Human Behaviour</title>
       <link>http://arg.napier.ac.uk/posts/2018.12.07_imhb/</link>
       <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2018.12.07_imhb/</guid>
-      <description>With colleagues from the Leeds University &amp;amp; UCL, I am organising a workshop on Intelligent Machines &amp;amp; Human Behaviour which is to be hosted at the 2019 AISB Annual Convention.
- The first call for papers is out now: cfp The Workshop website is live: http://arg.napier.ac.uk/events/imhb/  </description>
+      <description>With colleagues from the Leeds University &amp;amp; UCL, I am organising a workshop on Intelligent Machines &amp;amp; Human Behaviour which is to be hosted at the 2019 AISB Annual Convention.&#xA;The first call for papers is out now: cfp The Workshop website is live: http://arg.napier.ac.uk/events/imhb/ </description>
     </item>
-    
     <item>
       <title>ALIAS wins first prize</title>
       <link>http://arg.napier.ac.uk/posts/2018.11.28_marcin.szczot/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2018.11.28_marcin.szczot/</guid>
-      <description>One of my honours students, Marcin Szczot, has been enhancing the ALIAS library. This is a Python library for implementing abstract argumentation systems. His poster presentation recently won the first prize amongst graduating students in the school of computing.
-The full resolution poster is available here: Full Resolution ALIAS Poster</description>
+      <description>One of my honours students, Marcin Szczot, has been enhancing the ALIAS library. This is a Python library for implementing abstract argumentation systems. His poster presentation recently won the first prize amongst graduating students in the school of computing.&#xA;The full resolution poster is available here: Full Resolution ALIAS Poster</description>
     </item>
-    
     <item>
       <title>Research Posts in Argument Mining</title>
       <link>http://arg.napier.ac.uk/posts/2018.04.20_phdadvert/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2018.04.20_phdadvert/</guid>
-      <description>Argument Mining, the process of detecting, reconstructing, and extracting argument structure from natural language sources has become a hot topic in Argumentation research in recent years. This is a challenging, multi-disciplinary arena whose questions go to the heart of classical Artificial Intelligence problems related to Knowledge Representation and Natural Language Processing.
-Until 31st May 2018, ARG@ENU invites applications for unfunded PhD research posts. Further details and applications can be made via the findaphd advert:</description>
+      <description>Argument Mining, the process of detecting, reconstructing, and extracting argument structure from natural language sources has become a hot topic in Argumentation research in recent years. This is a challenging, multi-disciplinary arena whose questions go to the heart of classical Artificial Intelligence problems related to Knowledge Representation and Natural Language Processing.&#xA;Until 31st May 2018, ARG@ENU invites applications for unfunded PhD research posts. Further details and applications can be made via the findaphd advert:</description>
     </item>
-    
     <item>
       <title>MonkeyPuzzle Beta</title>
       <link>http://arg.napier.ac.uk/posts/2018.04.11_monkeypuzzle/</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2018.04.11_monkeypuzzle/</guid>
       <description>The latest (beta) version of MonkeyPuzzle, our browser-based argument analysis software, has been deployed: http://arg.napier.ac.uk/monkeypuzzle/</description>
     </item>
-    
     <item>
       <title>Introducing the Simple Argument Description Format (SADFace)</title>
       <link>http://arg.napier.ac.uk/posts/2018.02.01_sadface/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2018.02.01_sadface/</guid>
-      <description>We are pleased to introduce SADFace, our simple argument description format for describing arguments along with associated tools &amp;amp; libraries for creating and using SADFace documents.
- Project page - if you want to learn more, or the Code repository - if you want to start using SADFace immediately  </description>
+      <description>We are pleased to introduce SADFace, our simple argument description format for describing arguments along with associated tools &amp;amp; libraries for creating and using SADFace documents.&#xA;Project page - if you want to learn more, or the Code repository - if you want to start using SADFace immediately </description>
     </item>
-    
     <item>
       <title>Poster Presentation on Argument Visualisation at Scale</title>
       <link>http://arg.napier.ac.uk/posts/2017.06.23_eca_dana/</link>
       <pubDate>Fri, 23 Jun 2017 14:58:11 +0100</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2017.06.23_eca_dana/</guid>
-      <description>Dana Khartabil presented a poster at the Second European Conference on Argumentation based upon her Ph.D research. Briefly, we are interested in the tools that are needed to usefully explore increasingly larger datasets of analysed argumentation, whether this comes from hand-analysed datasets like the STCD. This poster forms parrt of the wider Argument Cartography theme.
-SHORT ABSTRACT: Argument diagramming has become a standard tool for visualising and exploring the structure of arguments and aiding in their analysis.</description>
+      <description>Dana Khartabil presented a poster at the Second European Conference on Argumentation based upon her Ph.D research. Briefly, we are interested in the tools that are needed to usefully explore increasingly larger datasets of analysed argumentation, whether this comes from hand-analysed datasets like the STCD. This poster forms parrt of the wider Argument Cartography theme.&#xA;SHORT ABSTRACT: Argument diagramming has become a standard tool for visualising and exploring the structure of arguments and aiding in their analysis.</description>
     </item>
-    
     <item>
       <title>Poster Presentation on Behaviour Change Arguments</title>
       <link>http://arg.napier.ac.uk/posts/2017.06.23_eca_kate/</link>
       <pubDate>Fri, 23 Jun 2017 14:58:11 +0100</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2017.06.23_eca_kate/</guid>
-      <description>Kate Pangbourne presented a poster at the Second European Conference on Argumentation based upon our joint research into behaviour change campaigns and its associated argumentative practises. Briefly, we are interested in the kinds of arguments that are used in behaviour change campaigns from the Sustainable Transport Domain. This builds on work in to the Sustainable Transport Communication Dataset (STCD) theme.
-SHORT ABSTRACT: Poor communication can undermine the preparatory work, conducted over long periods, to construct favourable conditions for a major societal shift in behaviour.</description>
+      <description>Kate Pangbourne presented a poster at the Second European Conference on Argumentation based upon our joint research into behaviour change campaigns and its associated argumentative practises. Briefly, we are interested in the kinds of arguments that are used in behaviour change campaigns from the Sustainable Transport Domain. This builds on work in to the Sustainable Transport Communication Dataset (STCD) theme.&#xA;SHORT ABSTRACT: Poor communication can undermine the preparatory work, conducted over long periods, to construct favourable conditions for a major societal shift in behaviour.</description>
     </item>
-    
     <item>
       <title>EnHabit App wins second prize</title>
       <link>http://arg.napier.ac.uk/posts/2017.04.23_graeme.campbell/</link>
       <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2017.04.23_graeme.campbell/</guid>
-      <description>One of my honours students, Graeme Campbell, has been developing a mobile application to support behaviour change. His poster presentation recently won the second prize amongst graduating students in the school.
-The full resolution poster is available here: Full Resolution Enhabit Poster</description>
+      <description>One of my honours students, Graeme Campbell, has been developing a mobile application to support behaviour change. His poster presentation recently won the second prize amongst graduating students in the school.&#xA;The full resolution poster is available here: Full Resolution Enhabit Poster</description>
     </item>
-    
     <item>
       <title>Ar:Ca:De Games in public</title>
       <link>http://arg.napier.ac.uk/posts/2017.04.11_lovelace/</link>
       <pubDate>Tue, 11 Apr 2017 14:58:11 +0100</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2017.04.11_lovelace/</guid>
-      <description>With Argument Card Debate (Ar:Ca:De) games we are building online and offline debate games that use &amp;lsquo;Argument Cards&amp;rsquo;, representations of arguments depicted using playing cards. The aim is to support people in engaging with both their own and other people&amp;rsquo;s arguments.
-Amantle Craviolatti recently attended the 2017 BCSWomen Lovelace Colloquium to present a poster and talk about her project with other Women in Computing. The poster can be downloaded from our publications page.</description>
+      <description>With Argument Card Debate (Ar:Ca:De) games we are building online and offline debate games that use &amp;lsquo;Argument Cards&amp;rsquo;, representations of arguments depicted using playing cards. The aim is to support people in engaging with both their own and other people&amp;rsquo;s arguments.&#xA;Amantle Craviolatti recently attended the 2017 BCSWomen Lovelace Colloquium to present a poster and talk about her project with other Women in Computing. The poster can be downloaded from our publications page.</description>
     </item>
-    
     <item>
       <title>MonkeyPuzzle Alpha</title>
       <link>http://arg.napier.ac.uk/posts/2017.04.04_monkeypuzzle/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2017.04.04_monkeypuzzle/</guid>
       <description>An Alpha version of MonkeyPuzzle, our browser-based argument analysis software, has been deployed: http://arg.napier.ac.uk/monkeypuzzle/</description>
     </item>
-    
     <item>
       <title>Argumentation Research @ ENU</title>
       <link>http://arg.napier.ac.uk/posts/2017.04.01_argumentation/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>http://arg.napier.ac.uk/posts/2017.04.01_argumentation/</guid>
       <description>Research into argumentation has become an increasingly hot research topic in AI in recent years. Argumentation Research at Edinburgh Napier University focusses on dialogue and strategy with forays into visualisation, tooling, datasets, and mining.</description>
     </item>
-    
   </channel>
 </rss>
